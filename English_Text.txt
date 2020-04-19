@@ -75,7 +75,7 @@ HEADER PAGE 2:	Feeding decentralized blockchains with centralized data feeds is 
 
 Achieving decentralization
 
-	Is it really possible to achieve truth in a world where you can’t  trust your souces? Chainlink achieves this by being a NETWORK of oracles. Data requested is served by multiple oracles run by different node operators that are incentivized to provide proper data. 
+	Is it really possible to achieve truth in a world where you can’t  trust your sources? Chainlink achieves this by being a NETWORK of oracles. Data requested is served by multiple oracles run by different node operators that are incentivized to provide proper data. 
 
 	By selecting several data sources (nodes) you provably increase the chances of getting a highly probable truth. Nodes aggregate  their  response to reach  an agreement before data is sent to the smart contract (SC). Furthermore, nodes work by reputation. Hence,  you   ensure the SC’s security not  only  by  selecting a high number of nodes, but  also  by  selecting  highly  reputable nodes to feed data. See Chainlink market.
 
@@ -84,7 +84,7 @@ LINK token utility
 	LINK is used as collateral to maintain the network security and maintain the incentives of the network. The token will be used for:
 
 	Paying node operators for serving  data to SCs.
-	Node operators place deposits (collateral or stake) as required. by contract creators. In order to ensure they will behave correctly.
+	Node operators place deposits (collateral or stake) as required by contract creators. In order to ensure they will behave correctly.
 
 	LINK is an ERC677-token developed specifically for Chainlink and integrated into Ethereum. An ERC677 is just an ERC20 token but adds the native capability so that payment and data retrieval is triggered with one transaction.
 
@@ -122,7 +122,7 @@ Blockchain agnostic
 
 	Deploying Chainlink contracts in the new blockchain: More complex as it requires some way to bridge to the token (likely what polkadot will be doing since polkadot will have an Ethereum mainnet bridge).
 
-	Blockchains with adapters to Chainlink already implemented:
+	Blockchains with adapters to Chainlink:
 
 		- Hedera Hashgraph
 		- IOTA
