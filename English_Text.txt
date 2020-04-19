@@ -36,7 +36,7 @@ What Chainlink has to offer
 
 Partners & clients
 
-	- 19 Platform integrations. Amongst them Google, Hedera, Harmony, Web3, Kaleido.
+	- 19 Platform integrations. Amongst them Google, Hedera, Polkadot, Web3, Kaleido.
 	- 100+ Smart Contract integrations like Oracle, Synthetix, OpenLaw OpenZeppelin.
 	- Available in 8 of most used frameworks, specially Truffle which is the most popular by far.
 	- Chainlink alongside with Intel, Microsoft, IBM and others  are developing the "Trusted Computation Framework" allowing secure off-chain computations using TEE's like Intel SGX.
@@ -61,6 +61,8 @@ Use cases
 		 A HIGHLY RECOMMENDED READ ABOUT USE CASES: 44 ways to improve your smart contract
 	 
  
+ 
+bottom small reference: API is basically what/how websits communicate with other websites. coinmarketcap uses a binance api to get the price and volum from biance every few minutes and display on their own site 
 ========================
 Page2
 ========================
