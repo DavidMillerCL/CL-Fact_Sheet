@@ -4,49 +4,51 @@ Page 1
 
 BIG CENTERED TOP HEADER: Smart contracts & the real world
 
-HEADER PAGE 1: Enabling secure I/O into smart contracts  & interoperability between blockchains
+HEADER PAGE 1: Enabling secure I/O into smart contracts & interoperability between blockchains
 
 
-Smart contracts provide the ability to execute tamper-proof digital agreements, which are considered highly secure and highly reliable. In order to maintain a contract's overall reliability, the inputs and outputs that the contract relies on also need to be secure. Chainlinks provide a reliable and secure end-to-end connection to external data.
+Smart contracts provide the ability to execute tamper-proof digital agreements which are considered highly secure and highly reliable. In order to maintain a contract's overall reliability, the inputs and outputs the contract relies upon also need to be secure. Chainlink provides reliable and secure end-to-end connections to external data.
 
 
 
 Overview
 
-	Historically, the blockchains on which smart contracts run cannot support native  communica-tion with external systems, and the potential that smart contracts provide have been throttled by their inability to connect off-chain.
+	Historically, the blockchains on which smart contracts run cannot support native communication with external systems, and the potential that smart contracts provide have been throttled by their inability to connect to off-chain data, events, and payments.
 
 	Today, the solution to this problem is to introduce a new functionality, called an 'ORACLE', that provides connectivity to the outside world. However, oracles to-date are centralized services, meaning any smart contract using such services has a single point of failure, which nullifies any benefits gained from the decentralized nature of smart contracts.
 
-	To fill this gap, Chainlink was developed as the first decentralized oracle that can provide external data to smart contracts. As a result, the security and determinism of smart contracts can be combined with the knowledge and breadth of real-world external events. Chainlink will provide your smart contract with access to any external data you want to connect your smart contract with, and all the information needed to do so are listed here.
+	To fill this gap, Chainlink (token sale in 2017, launched in 2019) was developed by SmartContract.com (founded in 2014) as the first decentralized oracle framework that can provide external data to smart contracts on any blockchain. As a result, the security and determinism of smart contracts can be combined with the knowledge and breadth of real-world external events. Chainlink provides your smart contract with access to any external data you need to connect your smart contract with. All the information needed to understand and leverage Chainlink are listed here.
 
-	You'll see Chainlink references in articles both as http://chain.link & smartcontract.com
+	You'll see Chainlink references in articles both as https://chain.link & https://smartcontract.com
 
 
 What Chainlink has to offer
 
-	Smart contracts require middleware to connect them to real-world data. Importantly, this data
-	will  trigger a contract’s outcome, thus creating  the  need for data input with high reliability.
+	Smart contracts require middleware to connect them to real-world data. Importantly, this data will trigger a contract’s outcome, thus creating the need for data inputs with high reliability and accuracy.
 
-	No matter if you are a startup or a big corporation, Chainlink, as decentralized, oracle middleware,  will provide your smart contract with provably secure access to data feeds, APIs and payments.
+	No matter if you are a startup or a large enterprise, Chainlink as decentralized oracle middleware, can provide your smart contract with provably secure access to external data feeds, APIs and payments.
 
-	A developer can quickly build and launch their own Chainlink to sell any API to smart contracts while the business can still sell their API through their usual interface business interface. By creating a new Chainlink as a developer, you’ll be paid by making something thousands of smart contracts will rely on.
+	Any developer can quickly build and launch their own Chainlink to sell any API (Application Programming Interface) to smart contracts while the data provider sells their API through their usual interface business as usual. By creating a new Chainlink as a developer, you’ll be paid by making something thousands of smart contracts will rely on.
 
-	Larger enterprises can partner with Chainlink to offer any existing APIs for purchase by smart contracts. Quickly and easily sell your company’s data and any of your other APIs using Chainlink. Provide millions of smart contracts the ability to purchase your services directly.
+	Larger enterprises can partner with Chainlink to offer any existing APIs for purchase by smart contracts. Quickly and easily sell your company’s data and any of your other APIs using Chainlink. Provide countless smart contracts with the ability to purchase your services directly.
 
 
 Partners & clients
 
-	- 19 Platform integrations. Amongst them Google, Hedera, Polkadot, Web3, Kaleido.
-	- 100+ Smart Contract integrations like Oracle, Synthetix, OpenLaw OpenZeppelin.
-	- Available in 8 of most used frameworks, specially Truffle which is the most popular by far.
-	- Chainlink alongside with Intel, Microsoft, IBM and others  are developing the "Trusted Computation Framework" allowing secure off-chain computations using TEE's like Intel SGX.
+	- 30+ Price Feeds on Ethereum Mainnet utilized by 14+ DeFi projects in production.
+	- 100+ integrations including Polkadot, Synthetix, Loopring, Aave, Openlaw, Conflux, and more.
+	- Partnered with large enterprises such as Google, Oracle, SWIFT, and more. 
+	- Available in many development frameworks, specifically Truffle which is the most popular by far.
+	- Chainlink alongside with Intel, Microsoft, IBM and others  are developing the "Trusted Computation Framework" (known as Hyperledger Avalon) allowing secure off-chain computations using TEE's like Intel SGX.
 
 	 FULL LIST (updated until August 2019) of platforms, integrations, frameworks, clients & partnerships here
+	 
+	 (update with new April 2020 ecosystem chart here)
 
  
 Use cases
 
-	Access to external data enables an entirely new wave of functionality for smart contracts. Connected smart contracts have a limitless potential, covering a wide variety of sectors:
+	Access to external data enables an entirely new wave of functionality for smart contracts. Connected smart contracts have limitless potential covering a wide variety of industries:
 
 		- Money and Finance
 		- Payments
@@ -62,7 +64,7 @@ Use cases
 	 
  
  
-bottom small reference: API is basically what/how websits communicate with other websites. coinmarketcap uses a binance api to get the price and volum from biance every few minutes and display on their own site 
+bottom small reference: An API is essentially how websites communicate with one another. CoinMarketCap uses a Binance API to fetch price and volumume data every few minutes to display it on their own site. Uber was built using payments, GPS, SMS, and KYC APIs.
 ========================
 Page2
 ========================
@@ -70,79 +72,89 @@ Page2
  
  
 HEADER PAGE 2:	Feeding decentralized blockchains with centralized data feeds is pointless.
-				Chainlink provides reliable, tamper-proof I/O on ANY blockchain.
+				Chainlink provides decentralized, reliable, and tamper-proof I/O on ANY blockchain.
 
 
 Achieving decentralization
 
-	Is it really possible to achieve truth in a world where you can’t  trust your sources? Chainlink achieves this by being a NETWORK of oracles. Data requested is served by multiple oracles run by different node operators that are incentivized to provide proper data. 
+	Is it really possible to achieve truth in a world where you can’t trust your sources? Chainlink achieves this by being a NETWORK of oracles. Requested data is delivered by multiple oracles run by different independent node operators, using mutiple data source APIs, that are incentivized to provide proper data.
 
-	By selecting several data sources (nodes) you provably increase the chances of getting a highly probable truth. Nodes aggregate  their  response to reach  an agreement before data is sent to the smart contract (SC). Furthermore, nodes work by reputation. Hence,  you   ensure the SC’s security not  only  by  selecting a high number of nodes, but  also  by  selecting  highly  reputable nodes to feed data. See Chainlink market.
+	By selecting several nodes and data sources, you provably increase the chances of getting a highly probable truth. Using Threshold Signatures, nodes aggregate their responses off-chain in order to reach an agreement before the final data point is sent to the smart contract on-chain. Furthermore, nodes are selected by reputation and previous performance. Hence, you ensure the smart contract’s security not only by selecting a high number of nodes, but also by selecting highly reputable nodes to feed data. See the Chainlink market.
 
 LINK token utility
 
-	LINK is used as collateral to maintain the network security and maintain the incentives of the network. The token will be used for:
+	The LINK token is used as payment and collateral to maintain the network security and incentives of the overall network. The token will be used for:
 
-	Paying node operators for serving  data to SCs.
-	Node operators place deposits (collateral or stake) as required by contract creators. In order to ensure they will behave correctly.
+	Paying node operators for for delivering off-chain data to smart contracts.
+	
+	Node operators use LINK as collateral (stake) when required by contract creators in order to ensure they will behave correctly. Malicious or non-responsive nodes will have their collateral slashed as a punishment along with a reduction in reputation.
 
-	LINK is an ERC677-token developed specifically for Chainlink and integrated into Ethereum. An ERC677 is just an ERC20 token but adds the native capability so that payment and data retrieval is triggered with one transaction.
+	LINK is an ERC677-token developed specifically for Chainlink and integrated into Ethereum. ERC677 is an ERC20 token but adds TransferAndCall capability enabling payment and data retrieval within a single transaction.
 
-	The LINK token is an Ethereum token but in case of need, it can be moved to any other blockchain platform. Chainlink is not tied to Ethereum.
+	LINK is an Ethereum token but in the worst case scenario, it can be transfered to any other blockchain platform. Chainlink is not limited to just Ethereum.
 
 
 Chainlink Token Distribution
 
-	There is a fixed quantity of LINK tokens: 1000M
+	There is a fixed quantity of LINK tokens: 1 Billion
 
-	- 350M were sold at token sale.
-	- 350M for incentivizing node operators (solves chicken or egg problem of bootstrapping a new network through subsidies).
-	- 300M to the project (for continued development so they don’t have to take fees)
+	- 350M were sold at token sale (fundrasing and initial distribution of tokens).
+	- 350M for incentivizing node operators through subsidies (solves chicken or egg problem of bootstrapping a new network).
+	- 300M to SmartContract Chainlink Ltd (for continued development so they don’t have to take fees).
 
 Why not just use ETH instead of LINK?
 
-	Limited number of LINK: inelastic supply.
-	The bigger the network, the more LINK tokens  locked as collateral*. Hence LINK will be scarce. *Staking is not mandatory (see customization).
-	Node operators need to stake LINK tokens.
-	Node operators always paid in LINK tokens.
+	Ties the incentives of node operators together with the health of the overall Chainlink network.
+	Isolates the security and economic bandwidth (staked LINK) from external factors outside the control of Chainlink stakeholders.
+	If a major network attack occured, LINK collateral then becomes worthless hurting the attacker, this is not true with an unrelated asset.
+	Stablecoins won't work as they are either backed by fiat and thus censorable or rely upon oracles to function.
+	Growing demand for LINK combined with a shrinking supply (due to staking) creates a positive feedback loop where the increased adoption boosts the price of LINK, thus increasing economic bandwidth and enabling more adoption to be supported. 
+	Chainlink is blockchain agnostic and needs a token than can be easily bridged between blockchains.
 
 
 If LINK is an Ethereum token, does it only work with Ethereum?
 
-	No, Chainlink is blockchain agnostic. ANY blockchain can easily write an external adapter so they can call Chainlink. LINK token pays/cuts stakes to node operators in order to incentivize trustworthy responses from the network.
+	No, Chainlink is blockchain agnostic. ANY developer can easily write an external adapter so they can call Chainlink from any blockchain. 
 
 
 Blockchain agnostic
 
-	Chainlink can serve data to ANY blockchain. LINK token is an Ethereum token but the Chainlink network can serve data to any smart contract platform. The token is just the way to pay node operators to ensure reliable data delivered.
+	Chainlink supports ANY blockchain. LINK was created as an Ethereum token but the Chainlink network can serve data to any smart contract platform.
 
-	There are two ways to integrate Chainlink:
+	There are two ways for a blockchain to integrate Chainlink:
 
-	Anyone can write an adapter for any platform with very LOW EFFORT to access Chainlink network data. Example here.
+	First, any developer can create a simple external adapter enabling any blockchain to request and receive external data from Chainlink nodes. Through this, LINK payments and staking collateral is still performed on Ethereum.
+	
+	Secondly, the LINK token can bridged to another blockchain through LockDeposit contract enabling native LINK payment and staking support on any blockchain enabling applications outside of Ethereum to request and receive data without the need for  routing through Ethereum.
 
-	Deploying Chainlink contracts in the new blockchain: More complex as it requires some way to bridge to the token (likely what polkadot will be doing since polkadot will have an Ethereum mainnet bridge).
+	Deploying Chainlink contracts in a new blockchain and bridging the token is a more complex process requiring cross-chain transaction support and therefore some simple data requests are likely still to be funneled through Ethereum for simplicity.
 
-	Blockchains with adapters to Chainlink:
+	Blockchains supported by Chainlink:
 
+		- Ethereum
+		- Bitcoin
+		- Polkadot
+		- Kava/Cosmos
 		- Hedera Hashgraph
 		- IOTA
 		- Zilliqa
-		- Polkadot (In progress)
+		- Any EVM-enabled blockchain
+		- Many more
 
 Customizing data & security
 
-	Flexibility largely comes from the "Service Agreement"  (SA) model: Any developer can connect/build any oracle network that can fit their exact needs (Note: SA’s are not live yet). 
+	Chainlink's flexibility largely comes from the "Service Agreement" (SA) model: Any developer can connect to or build an oracle network that fits their exact needs.
 
 	Customization of a wide range of parameters:
 
-		- Which /# of nodes
-		- Which /# of data sources
-		- Node Payments
-		- Collateral requirements
-		- Reputation requirements
+		- Selection and number of nodes
+		- Selection and number of data sources
+		- LINK Node Payment amounts
+		- LINK Collateral requirements
+		- Minimum reputation requirements
 		- Slashing conditions
 		- Node certification
-		- Crypto/fiat settlement 
+		- Threshold Signatures
 		- TEEs ( See below “What is a TEE?” )
 		- Mixicles
 
@@ -158,7 +170,7 @@ Open source & audited
 
 Network usage
 
-	Growth of Chainlink related smart contract addresses is an indication of increased network utility and developer interest.
+	Growth of Chainlink related smart contracts is an indication of increased network utility and developer interest.
 	(Image)
 
 
@@ -166,43 +178,42 @@ Network usage
 Page 3
 ================
 
-HEADER PAGE 3: Permissioned or permissionless, public or private all blockchains need a trustworthy oracle to be truly useful
+HEADER PAGE 3: Permissioned or permissionless, public or private, all blockchains and DLT need a trustworthy oracle to be truly useful
 
 - First mover advantage
 
-	- 1st decentralized oracle service.
-	- Long-standing connections to industry leaders (Swift & Oracle) & leading research companies (Gartner & Capgemini).
-	- Network effects: Chainlink’s large number of clients will attract future ones.
+	- First decentralized oracle framework.
+	- Long-standing connections to industry leaders (Swift, Google, & Oracle), leading research consultants (Gartner & Capgemini), and enterprise consortiums (IC3, EEA, Baseline, & Hyperledger)
+	- Network effects: Chainlink’s large number of clients, nodes, and data sources will attract future clients and usage.
 
 
 - Competitors
 
-	- Direct: Decentralized oracles which have not yet reached critical mass.  Band protocol, Tellor, Compound OOS (includes Chainlink as feed), Doracle from iExec (no clients) although iExec partnered with Chainlink on Jan’20.
+	- Direct: Alternative decentralized oracles which have little or no usage, inflexible and rigid customizability, have not yet reached critical mass, or is a homebrew and propritary oracle solution. This includes Band, Tellor, Witnet, Compound's OOS, Maker's OSM, and Doracles from iExec (integrated with Chainlink).
 	
-	- Indirect: Centralized oracles like Provable(uses Chainlink as feed).
+	- Indirect: Centralized oracle services like Orazlize/Provable (partnered with Chainlink) and Rhombus.
 
-	New competitors will emerge. They will struggle to achieve the same level of security as Chainlink’s quickly growing, heterogeneous network.
+	New competitors will emerge but they will lack the large selection of nodes and data sources, subsidized oracle networks, time-tested security, first movers advantage, and network effects. They will struggle to achieve any real marketshare as Chainlink continues to lead as the industry standard oracle framework.
 	
-	Competitors will also have a hard time achieving network effects without the 1st mover advantage.
 
 - Strong community
 
-	- The Chainlink community is one of the largest, best educated, most creative communities in the DLT space, renowned for its meme art.
-	- An official Chainlink community advocate program already exists in multiple cities acrossthe world. List of cities here.
+	- The Chainlink community is one of the largest, best educated, most creative communities in the crypto space, renowned for its meme art and comradery.
+	- An official Chainlink community advocate program exists in multiple cities and continents around the world. List of cities here.
 	- Official discord & gitter to reach the team.
 
 - Team
 
-	25 people team
+	25+ person team
 	6 advisors, amongst them:
-		- T. Gonser (ex-CEO Docusign). Article
-		- Ari Juels (co-creator Proof of Work)
+		- Tom Gonser (former Docusign CEO) Article
+		- Ari Juels (created term Proof of Work and cofounded IC3)
 		- Evan Cheng (Facebook R&D Dir & LLVM author at Apple)
-		- Hudson Jameson (Ethereum Foundation)
-		- Andrew Miller (consensus researcher) 
+		- Hudson Jameson (Ethereum Foundation Core Dev)
+		- Andrew Miller (Consensus Researcher) 
 
-	Currently, 13 open positions. Careers here
-	No hype from the team.
+	Currently, 11 open positions. Careers here
+	No hype from the team, only professionalism.
 	
 	
 ----------------
@@ -215,66 +226,67 @@ Together these innovative pieces of technology provide the most advanced oracle 
 
 1. Privacy & auditability: Mixicles
 
-	Mixicles is essentially a mixer that uses oracles to enable on-chain privacy to public blockchain smart contracts. The contract is split into two parts, where the sensitive data is computed off-chain, and the sensitive data is private on-chain. Mixicles offer:
+	Mixicles is essentially a mixer that uses external oracles to enable on-chain privacy for public blockchain smart contracts. The contract is split into two parts, where the sensitive data and business logic is kept off-chain with private settlement on-chain. Mixicles enable:
 
-		- Mixicles enable financial txns to be private yet auditable to regulators.
-		- Mixicles are agnostic and will be used for Bitcoin as well. 
-		- Mixicles will be the genesis for the creation of confidentiality preserving DeFi instruments.
+		- Private contract business logic, external oracle data, and final payee result.
+		- Fnancial contracts that are private to the public but auditable to regulators.
+		- Blockchain agnosticism and can be used in enterprise blockchains as well. 
+		- A new generation of privacy preserving and scalable DeFi financial instruments.
 
-	Mixicles is currently in audit phase. Highly recommended article here. 
-
-
-2. Low costs & scalable: Threshold signatures
-
-	Threshold signatures (TS) are being implemented in Chainlink which allows batching requests reducing costs (gas) while at the same time not clogging the network. 
-
-	How can this be achieved? Threshold Signatures pave the way for the oracle dilemma: One wants thousands of witnesses to each datum, but that costs a lot of gas due lots of transactions.
-
-	Threshold signatures, let oracles talk to each other off-chain, to agree on an observation and aggregate & respond to the request using only one on-chain transaction. If you want to dig ore on TS, here is a nice article .
+	Mixicles are currently under audit. Highly recommended article here. 
 
 
-3. Trusted Computing Framework
+2. Low cost & scalable: Threshold Signatures
 
-	The Trusted Compute Framework (TCF) is way for enterprises to use trusted execution environments (TEEs) to secure off-chain computations. Chainlink ensures that the data being delivered from each end is encrypted and tamperproof. 
+	Threshold signatures (TS) are being implemented in Chainlink which allows nodes to batch their responses off-chain substantially reducing transaction costs (gas consumption) while minimzing the effects of blockchain network congestion. 
 
-	Typically on-chain computation is reduced to very simple computations. TCF allows shifting complex computations from on-chain to off-chain  (on-premise or in cloud VM’s) and once finished post the results back on-chain  while keeping verification, attestation verification.
+	How can this be achieved? Threshold Signatures pave the way to solving the oracle dilemma: One wants hundreds, thousands, even tens of thousands of witnesses to agree on a data point, but that is expensive due to the growing amount of transactions needed.
+
+	Threshold signatures, enable oracles to talk to each other off-chain, agree on an observation, aggregate a single signature proving group observation, and then respond to the original data request using only a single on-chain transaction. If you want to dig more into T-sigs, here is a good article.
+
+
+3. Trusted Computation Framework
+
+	The Trusted Compute Framework (TCF) is way for enterprises to use trusted execution environments (TEEs) to secure off-chain computations to be used by on-chain contracts. Chainlink ensures that the data being delivered is encrypted and tamperproof end to end. 
+
+	Typically computation takes place on-chain and is very expensive. TCF instead allows contracts to shift complex computations from on-chain to off-chain systems (on-premise or in cloud VM’s) and once finished post the results back on-chain all while keeping verification and attestation verification properties.
 
 	Chainlink is part of the “Hyperledger Avalon Trusted Compute Framework” amongst Intel, IBM, Microsoft, Alibaba Cloud and Banco Santander.
 	See Intel Press Release & Article.
 
 
-4. Staking (incentivizing good data)
+4. Staking Collateral (Direct skin in game)
 
-	In short, staking is when nodes collecting data for a smart contract stake a predetermined amount of LINK as collateral.
+	In short, staking is when nodes delivering data to a smart contract stake a predetermined amount of LINK as collateral.
 
-	In case nodes fail to deliver reliable data or provides it in an untimely manner, they are penalized by losing an amount of the staked LINK tokens.
-	When nodes provide reliable, timely data to an oracle assignment, they are paid a fee in LINK. Article.
+	In the case nodes fail to deliver a reliable data point, provides it in an untimely manner, or doesn't deliver data at all, they are penalized by getting their LINK collateral slashed hurting nodes financially.
+	When nodes instead provide a reliable, timely data point to an oracle assignment, they are paid a fee in LINK and receive back their collateral. Article.
 
-	This is the way Chainlink network incentivizes the good and honest behaviour of nodes.
+	This is how the Chainlink network incentivizes honest behaviour and penalizes malicious behavior of nodes.
 
 ========
 Page 4
 ========
 
-HEADER PAGE 4: Chainlink does not compete with other blockchain platforms, it improves them
+HEADER PAGE 4: Chainlink does not compete with any blockchain platforms, it improves them
 
 
 DeFi & Chainlink
 
-	DeFi (Decentralized Finance) is currently one of the fastest growing sectors in the decentralized ecosystem. DeFi consists not only of decentralized exchanges but also lending platforms and derivatives that run in a fully decentralized manner. The business model for the DeFi sector require 100% secure and accurate price feeds of all assets. In DeFi, as in finance in general, security, reliability and reputability are equally paramount for profitability. See this highly recommended article from team about DEFI. 
+	DeFi (Decentralized Finance) is currently one of the fastest growing sectors in the decentralized ecosystem. DeFi consists not only of decentralized exchanges but also lending platforms and derivatives that run in a fully decentralized and trustless manner. The business model for the DeFi sector require 100% secure and accurate price feeds of all assets (90%+ of DeFi requires oracles). In DeFi, as in finance in general, security, reliability and reputability are all equally paramount for profitability. See this highly recommended article from team about DEFI. 
 
 	Chainlink is currently providing the reference data for 36 assets or pairs like EUR/USD. Those price feeds are already being used by Synthetix (top #2 locked USD value), Aave, Ampleforth and under study by dy/dx (top #6). Data from: defipulse.com | exploring.link | reference ETH/USD
 
 
-	Platform using Chainlink
-	VALUE SECURED on 1st March 2020
+	Live platforms using Chainlink
+	VALUE SECURED in April 2020
 
-	Synthetic assets	100 M$
-	DEX Protocol		3   M$
-	Commodity Money		2   M$
-	Lend & Borrow		26  M$
-	DEX					24  M$
-	DEX Protocol		9   M$
+	Synthetix: Synthetic assets		$100M
+	Aave: Lend & Borrow				$40M
+	DMM: Real World Assets			$8M
+	Amplforth: Commodity Money		$5M
+	Loopring: DEX Protocol			$3M
+	BZX: DEX Protocol				$2M
 
 ------------------
 
@@ -285,17 +297,17 @@ Chainlink is involved in several iniatives in order to harmonize and standarize 
 
 1. Enterprise Ethereum Alliance & Chainlink
 
-	The Enterprise Ethereum Alliance (EEA) is a member-driven standards organization whose charter is to develop open, blockchain specifications that drive harmonization and interoperability for businesses and consumers worldwide. Chainlink belongs to EEA since 2017 alongside with very well known enterprises. In January 2020, EEA creates the Mainnet Integration for Enterprises ‘EMINENT’ taskforce, spearheaded by Chainlink and others. The focus of this work group is to build open source available reference implementations and guidelines for Ethereum mainnet integration with enterprise “systems of record”. In other words,  the goal is to achieve an standard which allows connecting business backends (CRMs & ERPs)  to Ethereum mainnet.	
+	The Enterprise Ethereum Alliance (EEA) is a member-driven standards organization whose charter is to develop open, blockchain specifications that drive harmonization and interoperability for businesses and consumers worldwide. Chainlink has been in the EEA since 2017 alongside with very well known enterprises. In January 2020, EEA created the Mainnet Integration for Enterprises ‘EMINENT’ taskforce, spearheaded by Chainlink and others. The focus of this working group is to build open source available reference implementations and guidelines for Ethereum mainnet integration with enterprise “systems of record”. In other words,  the goal is to achieve an standard which allows connecting business backends (CRMs & ERPs) to Ethereum mainnet.	
 
 2. Baseline protocol & Chainlink
 
-	Baseline protocol, presented on March 2020 by big four Ernst & Young in collaboration with Microsoft, Consensys, AMD, Chainlink and others is an open source initiative that combines advances in cryptography, blockchain and open standards to deliver secure & private business processes at low cost via the public Ethereum Mainnet. The protocol will provide a common framework to enterprises that enable confidential and complex collaboration between them without leaving any sensitive data on-chain. See press release here.
+	Baseline protocol, presented on March 2020 by big four Ernst & Young in collaboration with Microsoft, Consensys, AMD, Chainlink and others is an open source initiative that combines advances in cryptography, blockchain, and open standards to deliver secure & private business processes at low cost via the public Ethereum Mainnet. The protocol will provide a common framework to enterprises that enable confidential and complex collaboration between them without leaving any sensitive data on-chain. See press release here.
 
 3. Hyperledger Avalon & Chainlink
 
-	In Octoboer 2019, Hyperledger introduced Hyperledger Avalon. It is a ledger independent implementation of the Trusted Compute Framework. It aims to shift in a secure manner the on-chain processing to off-chain (Cloud). Avalon is designed to mitigate the drawbacks of on-chain computation (scalability & confidentitality). It offloads the chain, increasing performance while still keeping integrity and attestation. Chainlink alongside with other partners ask IBM, Oracle, Microsoft and others is working in Avalon specification.  Intel Press Release
+	In Octoboer 2019, Hyperledger introduced Hyperledger Avalon. It is a ledger independent implementation of the Trusted Compute Framework. It aims to shift in a secure manner the on-chain processing to off-chain (Cloud). Avalon is designed to mitigate the drawbacks of on-chain computation (scalability & confidentitality). It offloads the chain, increasing performance while still keeping integrity and attestation. Chainlink alongside with other partners such as IBM, Oracle, Microsoft and others is working on the Avalon specification. Intel Press Release
 
-* What is TEE? A trusted execution environment (TEE) is a highly secure, boxed-in computational space in modern CPUs, allowing for the execution of computations, inaccessible even to the computer’s owner.
+* What is TEE? A trusted execution environment (TEE) is a highly secure, hardware based isolated computational space in modern CPUs, allowing for the execution of private  and attested computations, inaccessible to applications, the operating system, virtual machine manager, or even the computer’s operator.
 
 
 =========
@@ -304,36 +316,35 @@ Page 5
 
 HEADER PAGE 5: Interesting Highlights
 
-	- Chainlink was selected by the World Economic Forum's Tipping point report as the "Shift in action" for smart contracts.
+	- Chainlink has long been member of IC3, the leading academic research initiative for DLT and cofounded by Ari Juels. IC3 Members alongside Chainlink are JPMorgan, Microsoft, Cisco, Siemens, Intel.
 
-	- Chainlink has long been member of IC3, the leading academic research initiative for DLT. IC3 Members alongside Chainlink are JPMorgan, Microsoft, Cisco, Siemens, Intel.
+	- About ISDA (International Swaps & Derivatives Association): On January 2020, BAPI was announced, a bilateral smart derivatives platform using technology such as a standard ISDA template, Ethereum, OpenLaw, Chainlink and Kaleido. It was co-developed by Carlos Matilla, Executive Director at Santander Investment Bank.
 
-	- About ISDA (International Swaps & Derivatives Association) : On January 2020, BAPI was announced, a bilateral smart derivatives platform using technology such as a standard ISDA template,  Ethereum, OpenLaw, Chainlink and Kaleido_io. Co-developed by Carlos Matilla, Executive Director at Santander Investment Bank.
+	- Chainlink is currently working with SWIFT, the global standard in interbank messaging. SWIFT is used by more than 11,000 financial institutions in more than 200 countries and territories, with over 32 million messages moving trillions of dollars each day.
 
-	- Chainlink is currently working with SWIFT, which allows interbank messaging. As of 2015, SWIFT linked more than 11,000 financial institutions in more than 200 countries and territories, with over 32 million messages per day.
+	- In January 2017, Professor Klaus Schwab, Founder and Chairman of the World Economic Forum, wrote a book called The Fourth Industrial Revolution. In this book, Schwab describes SmartContract.com as the tipping point for the "Shift in action" under "Bitcoin and the Blockchain." (See here).
 
-	- In Jan 2017, Professor Klaus Schwab, Founder and Chairman of the World Economic Forum, wrote a book called The Fourth Industrial Revolution.  In this book, Schwab describes the potential of Chainlink (See here).
+	- Chainlink is listed US regulated exchanges Coinbase, Gemini, and Kraken who offer LINK trading to New York investors. NYC financial security laws are some of the toughest in the world.
 
-	- Chainlink is the only ICO funded Ethereum token available to New York investors (via Coinbase). NYC laws are one of the toughest for trading.
+	- Chainlink acquired IC3's “Town Crier” oracle in order to expand the possibilities of their decentralized oracle network with native TEEs support. ( Forbes article | More info| * What is a TEE? )
 
-	- Chainlink acquired “Town Crier” in order to be expand the possibilities of their Oracles network with TEEs natively embedded. ( Forbes article | More info| * What is a TEE? )
+	- Chainlink has two major marketplaces: 
 
-	- Chainlink has two market places: 
-
-		- market.link, a marketplace allowing anyone to offer their nodes, adapters and the jobs they offer. Anyone can see the list of nodes and filter by different criteria.
+		- market.link, created by LinkPool, is a marketplace that allows anyone to list their nodes, adapters and the jobs they offer. Anyone can see this list of nodes and filter by different criteria.
 		
-		- honeycomb.market allows devs to connect their smart contracts & decentralized apps to a wide variety of paid APIs using multiple high-quality Chainlink nodes from operators such as Certus.One, LinkForest & Cosmostation. Testnet APIs free.
+		- honeycomb.market, created by CLCG, allows developers to connect their smart contracts & decentralized apps to a wide variety of high quality paid APIs using multiple high-quality vetted Chainlink nodes from operators such as Certus.One, LinkForest & Cosmostation. Testnet APIs are offered free.
 
 
-	- Even centralized oracles like ‘Provable’ can keep their business of selling their data as usual and create an adapter and still sell it as another available source in the Chainlink network. Hence, they both earn money selling data the centralized way as well as via the Chainlink network.
+	- Even centralized oracles like ‘Provable’ can keep their business of selling their data as usual by creating an external adapter and selling data as another available source in the Chainlink network. Hence, they both earn money selling data their regular centralized way as well as via the decentralized Chainlink network.
 
 	- This is the only remark regarding Chainlink as an investment: The Chainlink token LINK has been the BEST ROI investment asset in the top 100 of 2019, outperforming ALL other crypto assets, including Bitcoin. (See here).
 
 -------------------------------------------
 
-SECONDARY HEADER PAGE 5: Blockchains already working with Chainlink
+SECONDARY HEADER PAGE 5: Blockchains already supported by Chainlink
 
 (Here comes an image)
+(change to include Ethereum, Hyperledger, Bitcoin, Polkadot, Cosmos, and EOS)
 
 
 
