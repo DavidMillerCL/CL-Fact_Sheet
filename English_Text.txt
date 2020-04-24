@@ -60,7 +60,7 @@ Use cases
 		- Utilities
 		- Gambling
 		
-		Essentially almost any of the visionary use cases people came up with when being enthusiastic about Ethereum are dependend on data that is unavailable to blockchains. To name a few examples: derivatives of real-world commodities on smart contracts (link to google prototype), auto-rebalancing portfolio based on traditional trading indicators such as RSI and EMA, market-sentiment or even the network difficulty of Bitcoin, automatic insurance payout when a flight arrives late, triggering generic banking transfers based on smart contract outcomes, different types of lending products without middlemens based on overcollaterization or boni-score, bridgeing cloud infrastructure to smart contracts and more
+		Essentially almost any of the visionary use cases people came up with when being enthusiastic about Ethereum are dependent on data that is unavailable to blockchains. To name a few examples: derivatives of real-world commodities on smart contracts (link to Google prototype), auto-rebalancing portfolio based on traditional trading indicators such as RSI and EMA, market-sentiment or even the network difficulty of Bitcoin, automatic insurance payout when a flight arrives late, triggering generic banking transfers based on smart contract outcomes, different types of lending products without middlemens based on overcollaterization or boni-score, bridgeing cloud infrastructure to smart contracts and more
 
 		 A HIGHLY RECOMMENDED READ ABOUT USE CASES: 44 ways to improve your smart contract
  
@@ -86,7 +86,7 @@ LINK token utility
 
 	The LINK token is used as payment and collateral to maintain the network security and incentives of the overall network. The token will be used for:
 
-	Paying node operators for for delivering off-chain data to smart contracts.
+	Paying node operators for delivering off-chain data to smart contracts.
 	
 	Node operators use LINK as collateral (stake) when required by contract creators in order to ensure they will behave correctly. Malicious or non-responsive nodes will have their collateral slashed & reduced reputation as a punishment.
 
