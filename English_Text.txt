@@ -13,7 +13,7 @@ Smart contracts provide the ability to execute tamper-proof digital agreements w
 
 Overview
 
-	Historically, the blockchains on which smart contracts run cannot support native communication with external systems, and the potential that smart contracts provide have been throttled by their inability to connect to off-chain data, events, and payments.
+	Historically, blockchains on which smart contracts run cannot support native  communication with external systems, and the potential smart contracts provide have been throttled by their inability to connect to off-chain data, events  and  payments.
 
 	Today, the solution to this problem is to introduce a new functionality, called an 'ORACLE', that provides connectivity to the outside world. However, oracles to-date are centralized services, meaning any smart contract using such services has a single point of failure, which nullifies any benefits gained from the decentralized nature of smart contracts.
 
@@ -26,9 +26,9 @@ What Chainlink has to offer
 
 	Smart contracts require middleware to connect them to real-world data. Importantly, this data will trigger a contract’s outcome, thus creating the need for data inputs with high reliability and accuracy.
 
-	No matter if you are a startup or a large enterprise, Chainlink as decentralized oracle middleware, can provide your smart contract with provably secure access to external data feeds, APIs and payments.
+	No matter if you are a startup or a large enterprise, Chainlink as decentralized oracle middleware, can provide your smart contract with provably secure access to external data feeds, *APIs and payments.
 
-	Any developer can quickly build and launch their own Chainlink to sell any API (Application Programming Interface) to smart contracts while the data provider sells their API through their usual interface business as usual. By creating a new Chainlink as a developer, you’ll be paid by making something thousands of smart contracts will rely on.
+	Any developer can quickly build and launch their own Chainlink to sell any API to smart contracts while the data provider sells their API through their usual interface business as usual. By creating a new Chainlink as a developer, you’ll be paid by making something thousands of smart contracts will rely on.
 
 	Larger enterprises can partner with Chainlink to offer existing APIs for purchase by smart contracts. Quickly and easily sell your company’s data and any of your other APIs using Chainlink. Provide countless smart contracts with the ability to purchase your services directly.
 
@@ -36,10 +36,10 @@ What Chainlink has to offer
 Partners & clients
 
 	- 30+ Price Feeds on Ethereum Mainnet utilized by 14+ DeFi projects in production.
-	- 100+ integrations including Polkadot, Synthetix, Loopring, Aave, Openlaw, Conflux, and more.
-	- Partnered with large enterprises such as Google, Oracle, SWIFT, and more. 
+	- 100+ integrations including Polkadot, Synthetix, Loopring, Aave, Openlaw, Web3 and more.
+	- Partnered with large enterprises such as Google, Oracle, SWIFT and more. 
 	- Available in many development frameworks, specifically Truffle which is the most popular by far.
-	- Chainlink alongside with Intel, Microsoft, IBM and others  are developing the "Trusted Computation Framework" (known as Hyperledger Avalon) allowing secure off-chain computations using TEE's like Intel SGX.
+	- Chainlink alongside with Intel, Microsoft, IBM and others  are developing "Hyperledger Avalon" allowing secure off-chain computations using TEE's like Intel SGX.
 
 	 FULL LIST (updated until August 2019) of platforms, integrations, frameworks, clients & partnerships here
 	 
@@ -60,12 +60,13 @@ Use cases
 		- Utilities
 		- Gambling
 		
-		Essentially almost any of the visionary use cases people came up with when being enthusiastic about Ethereum are dependent on data that is unavailable to blockchains. To name a few examples: derivatives of real-world commodities on smart contracts (link to Google prototype), auto-rebalancing portfolio based on traditional trading indicators such as RSI and EMA, market-sentiment or even the network difficulty of Bitcoin, automatic insurance payout when a flight arrives late, triggering generic banking transfers based on smart contract outcomes, different types of lending products without middlemens based on overcollaterization or boni-score, bridgeing cloud infrastructure to smart contracts and more
+		Essentially almost any of the visionary use cases people came up with when being enthusiastic about Ethereum are dependent on data that is unavailable to blockchains. To name a few examples: derivatives of real-world commodities on smart contracts (Google prototype), auto-rebalancing portfolio based on traditional trading indicators such as RSI and EMA, market-sentiment or even the network difficulty of Bitcoin, automatic insurance payout when a flight arrives late, triggering generic banking transfers based on smart contract outcomes, different types of lending products without middlemens based on overcollaterization or boni-score, bridgeing cloud infrastructure to smart contracts and more
 
 		 A HIGHLY RECOMMENDED READ ABOUT USE CASES: 44 ways to improve your smart contract
  
  
-bottom small reference: An API allows websites communicate with one another. CoinMarketCap uses a Binance API to fetch price/volume data every to display it on their own site. Uber was built using payments, GPS, SMS, and KYC APIs.
+* An API allows programs communicate with another. TradingView uses a Binance API to fetch price/volume data to display it on their own site. Uber was built using payments, GPS, SMS, and KYC APIs.
+* I/O stands for Input/Output. In the blockchain context ..... ellaborate CLARIFICATION HERE
 ========================
 Page2
 ========================
@@ -80,7 +81,7 @@ Achieving decentralization
 
 	Is it really possible to achieve truth in a world where you can’t trust your sources? Chainlink achieves this by being a NETWORK of oracles. Requested data is delivered by multiple oracles run by different independent node operators, using mutiple data source APIs, that are incentivized to provide proper data.
 
-	By selecting several nodes and data sources, you provably increase the chances of getting a highly probable truth. Using Threshold Signatures, nodes aggregate their responses off-chain in order to reach an agreement before the final data point is sent to the smart contract on-chain. Furthermore, nodes are selected by reputation and previous performance. Hence, you ensure the smart contract’s security not only by selecting a high number of nodes, but also by selecting highly reputable nodes to feed data. See the Chainlink market.
+	By selecting several nodes and data sources, you provably increase the chances of getting a highly probable truth. Using Threshold Signatures, nodes will aggregate their responses off-chain in order to reach an agreement before the final data point is sent to the smart contract on-chain. Furthermore, nodes are selected by reputation and previous performance. Hence, you ensure the smart contract’s security not only by selecting a high number of nodes, but also by selecting highly reputable nodes to feed data. See the Chainlink market.
 
 LINK token utility
 
@@ -208,8 +209,8 @@ HEADER PAGE 3: Permissioned or permissionless, public or private, all blockchain
 
 	25+ person team
 	6 advisors, amongst them:
-		- T. Gonser (ex-CEO Docusign). Article
-		- Ari Juels (co-creator Proof of Work)
+		- Tom Gonser (Docusign founder). Article
+		- Ari Juels (formalized Proof of Work; RSA chief scientist; IC3 co-founder)
 		- Evan Cheng (Facebook R&D Dir & LLVM   author at Apple)
 		- Hudson Jameson (Ethereum Foundation)
 		- Andrew Miller (Consensus researcher)
@@ -280,8 +281,9 @@ DeFi & Chainlink
 	Chainlink is currently providing the reference data for 36 assets or pairs like EUR/USD. Those price feeds are already being used by Synthetix (top #2 locked USD value), Aave, Ampleforth and under study by dy/dx (top #6). Data from: defipulse.com | exploring.link | reference ETH/USD
 
 
-	Live platforms using Chainlink
-	VALUE SECURED in April 2020
+	TOTAL VALUE SECURED 
+	in April 2020
+	158 M$
 
 	Synthetix: Synthetic assets		$100M
 	Aave: Lend & Borrow				$40M
@@ -339,7 +341,7 @@ HEADER PAGE 5: Interesting Highlights
 
 	- Even centralized oracles like ‘Provable’ can keep their business of selling their data as usual by creating an external adapter and selling data as another available source in the Chainlink network. Hence, they both earn money selling data their regular centralized way as well as via the decentralized Chainlink network.
 
-	- This is the only remark regarding Chainlink as an investment: The Chainlink token LINK has been the BEST ROI investment asset in the top 100 of 2019, outperforming ALL other crypto assets, including Bitcoin. (See here).
+	- This is the only remark regarding Chainlink as an investment: Chainlink has been the best performing cryptocurrency over the last 2.5 years. It's ROI is 1,700% higher than the average performing altcoin and +900% better than Bitcoin. (See here).
 
 -------------------------------------------
 
