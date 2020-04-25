@@ -65,7 +65,7 @@ Use cases
 		 A HIGHLY RECOMMENDED READ ABOUT USE CASES: 44 ways to improve your smart contract
  
  
-* An API allows programs communicate with another. TradingView uses a Binance API to fetch price/volume data to display it on their own site. Uber was built using payments, GPS, SMS, and KYC APIs.
+* An API allows programs communicate with another. TradingView uses a Binance API to fetch price/volume data to display it on their own site. Uber was built using payments, GPS, SMS and KYC APIs.
 * I/O stands for Input/Output. In the blockchain context ..... ellaborate CLARIFICATION HERE
 ========================
 Page2
@@ -106,17 +106,19 @@ Chainlink Token Distribution
 
 Why not just use ETH instead of LINK?
 
-	Ties the incentives of node operators together with the health of the overall Chainlink network.
-	Isolates the security and economic bandwidth (staked LINK) from external factors outside the control of Chainlink stakeholders.
-	If a major network attack occured, LINK collateral then becomes worthless hurting the attacker, this is not true with an unrelated asset.
-	Stablecoins won't work as they are either backed by fiat and thus censorable or rely upon oracles to function.
-	Growing demand for LINK combined with a shrinking supply (due to staking) creates a positive feedback loop where the increased adoption boosts the price of LINK, thus increasing economic bandwidth and enabling more adoption to be supported. 
-	Chainlink is blockchain agnostic and needs a token than can be easily bridged between blockchains.
+	There are several reasons to use LINK over ETH:	
+	
+	- Ties the incentives of node operators together with the health of the overall Chainlink network.
+	- Isolates the security and economic bandwidth (staked LINK) from external factors outside the control of Chainlink stakeholders.
+	- If a major network attack occured, LINK collateral then becomes worthless hurting the attacker, this is not true with an unrelated asset.
+	- Stablecoins won't work as they are either backed by fiat and thus censorable or rely upon oracles to function.
+	- Growing demand for LINK combined with a shrinking supply (due to staking) creates a positive feedback loop where the increased adoption boosts the price of - - LINK, thus increasing economic bandwidth and enabling more adoption to be supported. 
+	- Chainlink is blockchain agnostic and needs a token than can be easily bridged between blockchains.
 
 
 If LINK is an ERC token, works only with Ethereum?
 
-	No, Chainlink is blockchain agnostic. ANY developer can easily write an external adapter so they can call Chainlink from any blockchain. 
+	No, ANY blockchain can easily write an external adapter to call Chainlink. See next section. 
 
 
 Blockchain agnostic
@@ -172,7 +174,7 @@ Open source & audited
 
 Network usage
 
-	Growth of Chainlink related smart contracts is an indicator of increased network utility & developer interest.
+	Growth of Chainlink related smart contracts is indicates increased network utility & developer interest.
 	(Image)
 
 
@@ -191,11 +193,11 @@ HEADER PAGE 3: Permissioned or permissionless, public or private, all blockchain
 
 - Competitors
 
-	- Direct: Alternative decentralized oracles which have little or no usage, inflexible and rigid customizability, have not yet reached critical mass, or is a homebrew and propritary oracle solution. This includes Band, Tellor, Witnet, Compound's OOS, Maker's OSM, and Doracles from iExec (integrated with Chainlink).
+	- Direct: Alternative decentralized oracles which have little or no usage, inflexible and rigid customizability, have not yet reached critical mass, or is a homebrew and propritary oracle solution. This includes Band, Tellor, Witnet, Compound's OOS, Maker's OSM and Doracles from iExec (integrated with Chainlink).
 	
 	- Indirect: Centralized oracle services like Orazlize/Provable (partnered with Chainlink) and Rhombus.
 
-	New competitors will emerge and struggle to achieve marketshare since they will lack the large selection of nodes and data sources, subsidized oracle networks, time-tested security, first movers advantage, and network effects.
+	New competitors will emerge and struggle to achieve marketshare since they will lack the large selection of nodes and data sources, subsidized oracle networks, time-tested security, first movers advantage and network effects.
 	
 
 - Strong community
@@ -232,7 +234,7 @@ Together these innovative pieces of technology provide the most advanced oracle 
 	Mixicles is essentially a mixer that uses external oracles to enable on-chain privacy for public blockchain smart contracts. The contract is split into two parts, where the sensitive data and business logic is kept off-chain with private settlement on-chain. Mixicles enable:
 
 		- Private contract business logic, external oracle data & final payee result.
-		- Financial contracts that are private to the public but auditable to regulators.
+		- Financial contracts are private to the public but auditable to regulators.
 		- Blockchain agnosticism & can be used in enterprise blockchains as well. 
 		- A new generation of privacy preserving and scalable DeFi instruments.
 
@@ -245,7 +247,7 @@ Together these innovative pieces of technology provide the most advanced oracle 
 
 	How can this be achieved? Threshold Signatures pave the way to solving the oracle dilemma: One wants hundreds, thousands, even tens of thousands of witnesses to agree on a data point but that is expensive due to the growing amount of transactions needed.
 
-	TS, enable oracles to talk to each other off-chain, agree on an observation, aggregate a single signature proving group observation, and then respond to the original data request using only a single on-chain transaction. Article
+	TS, enable oracles to talk to each other off-chain, agree on an observation, aggregate a single signature proving group observation and then respond to the original data request using only a single on-chain transaction. Article
 
 
 3. Trusted Computation Framework
@@ -305,7 +307,7 @@ Chainlink is involved in several iniatives in order to harmonize and standarize 
 
 2. Baseline protocol & Chainlink
 
-	Baseline protocol, presented on March 2020 by big four Ernst & Young in collaboration with Microsoft, Consensys, AMD, Chainlink and others is an open source initiative that combines advances in cryptography, blockchain, and open standards to deliver secure & private business processes at low cost via the public Ethereum Mainnet. The protocol will provide a common framework to enterprises that enable confidential and complex collaboration between them without leaving any sensitive data on-chain. See press release here.
+	Baseline protocol, presented on March 2020 by big four Ernst & Young in collaboration with Microsoft, Consensys, AMD, Chainlink and others is an open source initiative that combines advances in cryptography, blockchain and open standards to deliver secure & private business processes at low cost via the public Ethereum Mainnet. The protocol will provide a common framework to enterprises that enable confidential and complex collaboration between them without leaving any sensitive data on-chain. See press release here.
 
 3. Hyperledger Avalon & Chainlink
 
@@ -328,7 +330,7 @@ HEADER PAGE 5: Interesting Highlights
 
 	- In January 2017, Professor Klaus Schwab, Founder and Chairman of the World Economic Forum, wrote a book called The Fourth Industrial Revolution. In this book, Schwab describes SmartContract.com as the tipping point for the "Shift in action" under "Bitcoin and the Blockchain." (See here).
 
-	- Chainlink is listed US regulated exchanges Coinbase, Gemini, and Kraken who offer LINK trading to New York investors. NYC financial security laws are some of the toughest in the world.
+	- Chainlink is listed US regulated exchanges Coinbase, Gemini and Kraken who offer LINK trading to New York investors. NYC financial security laws are some of the toughest in the world.
 
 	- Chainlink acquired IC3's “Town Crier” oracle in order to expand the possibilities of their decentralized oracle network with native TEEs support. ( Forbes article | More info| * What is a TEE? )
 
@@ -348,7 +350,7 @@ HEADER PAGE 5: Interesting Highlights
 SECONDARY HEADER PAGE 5: Blockchains already supported by Chainlink
 
 (Here comes an image)
-(change to include Ethereum, Hyperledger, Bitcoin, Polkadot, Cosmos, and EOS)
+(change to include Ethereum, Hyperledger, Bitcoin, Polkadot, Cosmos and EOS)
 
 
 
