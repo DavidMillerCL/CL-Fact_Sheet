@@ -129,7 +129,7 @@ Blockchain agnostic
 
 	1. Any developer can create a simple external adapter enabling any blockchain to request and receive external data from Chainlink nodes. Through this, LINK payments and staking collateral is still performed on Ethereum.
 	
-	2. The LINK token can bridged to another blockchain through LockDeposit contract enabling native LINK payment and staking support on any blockchain enabling applications outside of Ethereum to request and receive data without the need for  routing through Ethereum.
+	2. The LINK token can be bridged to another blockchain through LockDeposit contract enabling native LINK payment and staking support on any blockchain enabling applications outside of Ethereum to request and receive data without the need for  routing through Ethereum.
 
 	Deploying Chainlink contracts in a new blockchain and bridging the token is a more complex process requiring cross-chain transaction support and therefore some simple data requests are likely still to be funneled through Ethereum for simplicity.
 
