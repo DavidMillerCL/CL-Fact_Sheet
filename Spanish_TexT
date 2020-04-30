@@ -83,12 +83,12 @@ Logrando la descentralización
 
 Utilidad del token LINK
 
-	El token LINK se usa como pago y para deposito de fianzas que ayudan a mantener la seguridad y los incentivos de la red. El token se usa para:
+	El token LINK se usa como pago y para depósito de fianzas que ayudan a mantener la seguridad y los incentivos de la red. El token se usa para:
 
 	1. Pagar a los nodos por entregar datos externos a la blockchain a los contratos inteligentes.
 	2. Los (operadores de los) nodos pueden depositar LINK a modo de fianza (Staking) cuando se lo soliciten los creadores de los contratos como garantía de que actuarán honestamente. Los nodos maliciosos o que no respondan recortará su fianza y su reputación se reducirá.
 
-	LINK is un token ERC20 con el estandar ERC677. ERC677 desarrollado específicamente para Chainlink y se integró en Ethereum. Añade la funcionalidad para que el pago y la obtención de datos se realicen en una sola transacción.
+	LINK es un token ERC20 con el estándar ERC677. ERC677 desarrollado específicamente para Chainlink y se integró en Ethereum. Añade la funcionalidad para que el pago y la obtención de datos se realicen en una sola transacción.
 
 	LINK es un token de Ethereum pero, en el peor de los casos puede moverse a otras plataformas Blockchain. Chainlink no está limitado a Ethereum.
 
