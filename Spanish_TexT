@@ -36,7 +36,7 @@ Qué ofrece Chainlink
 Socios y clientes
 
 	- Más de 30 feeds de precios en Ethereum que están siendo usados por más de 14 proyectos DeFi.
-	- Más de 100 integraciones: incluye Polkadot3 Synthetix4, Loopring5, Aave6, Openlaw7, Web38 y más.
+	- Más de 100 integraciones: Polkadot3, Tezos Synthetix4, Loopring5, Aave6, Openlaw7, Web38 y más.
 	- Asociado con grandes empresas como Google9, Oracle10, SWIFT entre otras.
 	- Disponible en los frameworks más usados, sobre todo Truffle que es de sobra el más conocido.
 	- Junto a Intel, Microsoft, IBM y otros11, Chainlink desarrolla el “Trusted Computation Framework” (Hyperledger Avalon), permitiendo conectar de forma segura sistemas fuera de la Blockchain.
@@ -88,7 +88,7 @@ Utilidad del token LINK
 	1. Pagar a los nodos por entregar datos externos a la blockchain a los contratos inteligentes.
 	2. Los (operadores de los) nodos pueden depositar LINK a modo de fianza (Staking) cuando se lo soliciten los creadores de los contratos como garantía de que actuarán honestamente. Los nodos maliciosos o que no respondan recortará su fianza y su reputación se reducirá.
 
-	LINK es un token ERC20 con el estándar ERC677. ERC677 desarrollado específicamente para Chainlink y se integró en Ethereum. Añade la funcionalidad para que el pago y la obtención de datos se realicen en una sola transacción.
+	LINK es un token ERC20 con el estándar ERC677, desarrollado específicamente para Chainlink e integrado en Ethereum. Añade la funcionalidad para que el pago y la obtención de datos se realicen en una sola transacción.
 
 	LINK es un token de Ethereum pero, en el peor de los casos puede moverse a otras plataformas Blockchain. Chainlink no está limitado a Ethereum.
 
@@ -133,7 +133,7 @@ Agnosticismo entre Blockchains
 		- Polkadot
 		- Kava/Cosmos
 		- Hedera Hashgraph
-		- IOTA
+		- Tezos
 		- Zilliqa
 		- Cualquier Blockchain compatible con la EVM
 		- Otras
@@ -186,7 +186,7 @@ HEADER PAGE 3: Blockchains con o sin permisos, públicas o privadas, no importa.
 
 - Competidores
 
-	- Directos: Oráculos descentralizados con apenas uso, que no disponen de la capacidad de ajustarse a las necesidades individuales, que no han alcanzado un punto crítico en su desarrollo o simplemente son “oráculos caseros”. Esto incluye a Band25, Tellor25, Witnet25, OOS25, Maker’s OSM25 & Doracle (integra Chainlink).
+	- Directos: Oráculos descentralizados con apenas uso, que no disponen de la capacidad de ajustarse a las necesidades individuales, que no han alcanzado un punto crítico en su desarrollo o simplemente son “oráculos caseros”. Esto incluye a Tellor25, Witnet25, OOS25, Maker’s OSM25, Doracle (integra Chainlink) y Band.
 	
 	- Indirectos: Oráculos centralizados como Provable28 (socio de Chainlink) y Rhombus28.
 
@@ -226,7 +226,7 @@ Estos 4 innovadores aspectos tecnológicos conforman el oráculo más avanzado h
 
 	Mixicles es básicamente un mezclador que usa oráculos para llevar la privacidad a los contratos inteligentes en blockchains públicas. El contrato se divide en dos: A) los datos sensibles son procesados fuera de la Blockchain y B) los datos sensibles son privados en la Blockchain. Mixicles permite que:
 
-	Los contratos financieros sean privados para el público pero auditables para las entidades reguladoras.	
+	Los contratos financieros sigan siendo privados para el público pero auditables para las entidades reguladoras.	
 	Sean privados: la lógica del contrato + los datos externos + el resultado.
 	Haya agnosticismo interblockchain -> Pueda usarse en ambito empresarial 
 	La industria DeFi pueda escalar y preservar la privacidad.
@@ -245,7 +245,7 @@ Estos 4 innovadores aspectos tecnológicos conforman el oráculo más avanzado h
 
 3. Trusted Computation Framework
 
-	El Trusted Computing Framework (TCF) permite que  empresas puedan usar trusted execution environments (TEEs) para asegurar la computación fuera de la blockchain. Chainlink garantiza que los datos que son entregados están encriptados y no han sido manipulados extremo a extremo.
+	El Trusted Computing Framework (TCF) permite que  empresas puedan usar trusted execution environments (*TEEs) para asegurar la computación fuera de la blockchain. Chainlink garantiza que los datos que son entregados están encriptados y no han sido manipulados extremo a extremo.
 
 	Normalmente la computación tiene lugar en la Blockchain, lo cual es muy caro. En cambio, el TCF permite realizar operaciones complejas fuera de la Blockchain (ya sea de forma local o en ‘Máquinas Virtuales’ alojadas en la nube) y una vez termina, escribe el resultado en la Blockchain a la vez que mantiene las propiedades de verificación e inmutabilidad.
 
@@ -271,7 +271,9 @@ HEADER PAGE 4: Chainlink no compite con ninguna plataforma Blockchain, sino que 
 
 DeFi y Chainlink
 
-	Las DeFi (Finanzas Descentralizadas) son uno de los sectores que más rápido está creciendo en el ecosistema descentralizado. Las DeFi consisten no solo en exchanges descentralizados, sino también en plataformas de préstamo y derivados que se ejecutan de manera completamente descentralizada y preconfiable (trustless). El modelo de negocio de la industria DeFi requiere feeds de precios 100% seguros y precisos para todos sus activos (más del 90% de los instrumentos DeFi necesitan oráculos). En las DeFi, igual que en las finanzas tradicionales, la seguridad, la fiabilidad y la reputación son primordiales para obtener rentabilidad. Ver este artículo escrito por el equipo sobre las DeFi. 
+	Las DeFi (Finanzas Descentralizadas) son uno de los sectores que más rápido está creciendo en el ecosistema descentralizado. Las DeFi consisten no solo en exchanges descentralizados, sino también en plataformas de préstamo y derivados que se ejecutan de manera completamente descentralizada y preconfiable (trustless). 
+	
+	El modelo de negocio de la industria DeFi requiere feeds de precios 100% seguros y precisos para todos sus activos (más del 90% de los instrumentos DeFi necesitan oráculos). En las DeFi, igual que en las finanzas tradicionales, la seguridad, la fiabilidad y la reputación son primordiales para obtener rentabilidad. Ver este artículo escrito por el equipo sobre las DeFi. 
 
 	Actualmente Chainlink proporciona datos de referencia para 36 activos o pares como EUR / USD. Esos feeds de precios ya están siendo usados por Synthetix (2ª plataforma con mayor valor en USD), Aave, Ampleforth y están siendo estudiados por dy/dx (6ª plataforma con mayor valor en USD) Datos de: defipulse.com | exploring.link | referencia ETH/USD
 
