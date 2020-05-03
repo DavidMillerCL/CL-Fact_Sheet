@@ -351,12 +351,58 @@ SECONDARY HEADER PAGE 5: Blockchains que ya son compatibles con Chainlink
 
 
 ========
-Page 6 (this could be removed if you prefer not to have it)
+Page 6 
 ========
 
-EDICIÓN ESPECIAL DEL TRÍPTICO DE LA COMUNIDAD DE CHAINLINK
+HEADER PAGE 6: Blockchains ya compatibles con Chainlink
 
-Estamos atravesando momentos sin precedentes debido al Covid-19. 
-Está causando mucho dolor y sufrimiento alrededor de todo el mundo. Esta es nuestra manera de transmitiros a vosotros y a vuestras familias nuestros mejores deseos. 
+(Here comes an image)
 
-Manteneos a salvo.
+SECONDARY HEADER PAGE 4: Chainlink mediante ejemplos y FAQ
+
+1. Juan quiere datos fiables para sus contratos inteligentes, así que se los pide a Chainlink.
+
+	2. Juan solicita a un número determinado de nodos de Chainlink usando un contrato que especifica que deben tener al menos un cierto nº de transacciones previas, un % mínimo de precisión y haber depositado una determinada cantidad de LINK en concepto de fianza como garantía de que cumplirán lo acordado hasta finalizar el contrato.
+
+	3. Juan también informa de cuanto LINK pagará a cambio de obtener los datos.
+
+	4. Todos los nodos de Chainlink que cumplen los requisitos de Juan, pueden optar a ser un oráculo para su contrato. Juan seleccionará los oráculos que pidan la menor cantidad de LINK como pago por su transacción.
+
+	5. Los nodos seleccionados por Juan le aportarán los datos y sus respuestas serán combinadas en el contrato agregador que Juan seleccionó. El contrato inteligente de Juan consigue sus datos, a cada nodo se le paga en LINK, y se cobran las multas de todos aquellos nodos cuya respuesta no encajaba con la del consenso.
+
+	6. Los nodos honestos ahora tienen más LINK, que pueden usar para aumentar sus fianzas en un futuro o pueden venderlos en el mercado.
+
+	Dos aclaraciones importantes: 
+
+	- Cuando Mixicles esté funcionando (está siendo auditado actualmente), todo este proceso podrá mantenerse en privado: la lógica del contrato, los datos del oráculo externo y el resultado de los pagos, mientras que podrá seguir siendo auditable para las entidades reguladoras.
+
+	- Cuando las Threshold signature estén funcionando, en vez de que cada nodo escriba su propia respuesta en la blockchain (alto coste, congestión de la red), alcanzarán el consenso fuera de la blockchain y escribirán los resultados en una sola transacción.
+
+
+
+Preguntas Frecuentes y Respuestas
+
+
+	¿El sistema de fianzas (staking) y de reputación son lo mismo?
+
+		No, cada nodo tiene un ranking (reputación) determinada por su rendimiento previo. El Staking es un sistema adicional además de éste y el cual se tiene en cuenta por los usuarios a la hora de elegir a qué nodos se les harán las peticiones. Tener más LINK disponible incrementa las probabilidades de que un nodo sea honesta, pero el ranking de un nodo también es un factor a tener en cuenta.
+
+	¿Ascenderé a la cima del ranking simplemente por tener mucho LINK?
+
+		No, el ranking de los nodos tiene en consideración varios factores a la hora de asignar la reputación (ver #3), tener LINK como fianza es tan solo uno de los parámetros que se tienen en cuenta.
+
+	¿Qué factores se tienen en cuenta para el ranking de los nodos?
+
+		Esto depende de varios factores: tiempo de funcionamiento, correción / precisión de las respuestas, número total de las peticiones asignadas/aceptadas/completadas/rechazadas, tiempo de espera promedio antes de responder, el historial y la cantidad de LINK depositado como fianza.
+
+	¿Funciona ya el staking?
+
+		No, es probable que llegue después de otras grandes funcionalidades como Mixicles y Threshold signatures. Las redes hoy están aseguradas por la reputación de los nodos y el coste de oportunidad de perder ingresos en el futuro si actúan con malas intenciones. El equipo principal de Chainlink también subvenciona redes de oráculos con los fondos recaudados de la venta del token para asegurar las respuestas apropiadas de los nodos y garantizar que operar un nodo sea económicamente viable durante esta primera etapa de la red.
+
+	¿Qué rentabilidad tiene el staking?
+
+		Esto variará de nodo a nodo según su ranking (ver #3), su reputación, cantidad de LINK depositado como fianza y el volumen de trabajos recibidos. Cuanto más fiable, preciso y rápido sea un nodo al responder, más probable será que genere grandes ingresos por su LINK debido al alto volumen de trabajos y a las comisiones tan grandes que pueden recibir.
+
+	¿Habrá contratos que no requieran una fianza en LINK?
+
+		Sí, los contratos pueden (o no) requerir una fianza en LINK (ver apartado ’Personalización de los datos y la seguridad en la página 1’). El tamaño de la fianza es tan solo uno de los factores que el solicitante puede requerir en sus acuerdos de servicio. Es el solicitante quien decide cuánto LINK necesitará como fianza para sus trabajos y es el nodo quien elige qué trabajos acepta.
