@@ -187,7 +187,7 @@ HEADER PAGE 3: Permissioned or permissionless, public or private, all blockchain
 - First mover advantage
 
 	- First decentralized oracle framework.
-	- Long-standing connections to industry leaders (Swift, Google, & Oracle), leading research consultants (Gartner & Capgemini) & enterprise consortiums (IC3, EEA, Baseline protool & Hyperledger).
+	- Long-standing connections to industry leaders (Swift, Google, & Oracle), leading research consultants (Gartner & Capgemini) & enterprise consortiums (IC3, EEA, Baseline protocol & Hyperledger).
 	- Network effects: Chainlink’s large number of clients, nodes & data sources attracts usage.
 
 
@@ -420,7 +420,7 @@ Frequent Questions / Answers
 
 	What are the factors considered for node ranking?
 	
-		This depends on a wide variety of cators: Uptime, correctness/accuracy of responses, total number of assigned/accepted/completed/rejected requests, average time to respond, slashing history and the amount of LINK staked.
+		This depends on a wide variety of factors: Uptime, correctness/accuracy of responses, total number of assigned/accepted/completed/rejected requests, average time to respond, slashing history and the amount of LINK staked.
 
 	Is staking live?
 	
