@@ -430,6 +430,6 @@ Frequent Questions / Answers
 		
 		This will vary from node to node based on their node ranking (see #3), reputation, amount of staked LINK, and the volume of jobs received. The more reliable, accurate, and quick to respond a node is, the more likely they are to generate higher returns on their staked LINK due to the higher volume of jobs and higher fees that can be charged.
 
-	Will be there contracts that require Zero LINK  to be staked?
+	Will there be contracts that require Zero LINK  to be staked?
 	
 		Yes, contracts can require any amount of LINK (including zero) to be staked (see section ’Customizing data & security in page 1’). The amount staked is just a single factor the requester can require in their service agreement. It is up to the requesters how much LINK will need to be staked for a job and it is up to the node to choose which jobs they are willing to accept.
