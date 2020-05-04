@@ -174,7 +174,7 @@ Customizing data & security
 
 Network usage
 
-	Growth of Chainlink related smart contracts is indicates increased network utility & developer interest.
+	Growth of Chainlink related smart contracts indicates increased network utility & developer interest.
 	(Image)
 
 
@@ -350,6 +350,8 @@ HEADER PAGE 5: Some interesting highlights
 
 	- In January 2017, Professor Klaus Schwab, Founder and Chairman of the World Economic Forum, wrote a book called The Fourth Industrial Revolution. In this book, Schwab describes SmartContract.com as the tipping point for the "Shift in action" under "Bitcoin and the Blockchain." (See here).
 
+	- There are 3 types of APIs: Private, partner or public. Two require passwords. Chainlink provides data from all three. Neither the direct competitors Tellor or Band can access data from private or partner APIs.
+	
 	- Chainlink is listed US regulated exchanges Coinbase, Gemini and Kraken who offer LINK trading to New York investors. NYC financial security laws are some of the toughest in the world.
 
 	- Chainlink acquired IC3's “Town Crier” oracle in order to expand the possibilities of their decentralized oracle network with native TEEs support. ( Forbes article | More info| * What is a TEE? )
@@ -369,8 +371,15 @@ HEADER PAGE 5: Some interesting highlights
 
 -------------------------------------------
 Any input. Any output. Any blockchain
+
 (Here comes an image)
 
+Text below image: 
+
+- LEFT:    Connect to any source of data feed / API
+- CENTER:  Public/private blockchains can support Chainlink
+- RIGHT 1: Send payments anywhere 
+- RIGHT 2: Connect to backend systems
 
 
 ========

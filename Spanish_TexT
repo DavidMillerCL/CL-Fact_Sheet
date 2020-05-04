@@ -155,14 +155,14 @@ Personalizando datos y seguridad
 		- TEEs ( Ver “*¿Qué es un TEE?” )
 		- Mixicles
 
-	Reputación de los nodos / Ranking*: Los nodos de Chainlink cuentan con un "factor reputación". Los clientes de Chainlink podrá exigir un nivel mínimo de reputación a todos los nodos. La reputación de los nodos depende de los siguientes factores:
+	Reputación del nodo / Ranking*: Los nodos de Chainlink cuentan con un "factor reputación". Los clientes de Chainlink podrá exigir un nivel mínimo de reputación a todos los nodos. La reputación de los nodos depende de los siguientes factores:
 
 		- Disponibilidad del nodo (tiempo activo)
 		- Corrección de las respuestas
 		- Tiempo promedio que tarda en responder
-		- Número total de peticiones asignadas
-		- Número total de peticiones completadas
-		- Número total de peticiones aceptadas
+		- Nº total de peticiones asignadas
+		- Nº total de peticiones completadas
+		- Nº total de peticiones aceptadas
 		- Nº de veces que se han pagado multas
 		- Tamaño de la fianza en LINK (staked)
 
@@ -193,7 +193,7 @@ HEADER PAGE 3: Blockchains con o sin permisos, públicas o privadas, no importa.
 
 	Aparecerán nuevos competidores, pero costará hacerse con una cuota del mercado ya que carecerán de la larga lista de nodos, proveedores de datos, las redes subvencionadas de oráculos, la seguridad, la ventaja de ser el primero y los efectos de red de los que ya dispone Chainlink.
 	
-	*Nota respecto a los competidores y el "oráculo" de Coinbase: Aunque Coinbase es una gran entidad con buena reputación en este ámbito, el servicio que provee no deja de ser un feed de precios (no un verdadero oráculo) y los resultados no los escribe en la blockchain. Por tanto no puede considerarse como un oráculo blockchain ni como un competidor dentro del ámbito de los oráculos.
+	*Nota respecto a los competidores y el ‘Coinbase Oracle’: Aunque Coinbase es una entidad con gran reputación en este ámbito, el servicio que provee no deja de ser un feed de precios (no un verdadero oráculo) y los resultados no los escribe en la blockchain. Por tanto no puede considerarse como un oráculo blockchain ni como un competidor dentro del ámbito de los oráculos.
  
 - Comunidad sólida
 
@@ -219,6 +219,7 @@ HEADER PAGE 3: Blockchains con o sin permisos, públicas o privadas, no importa.
 
 	- Es un proyecto de código abierto (aquí).
 	- El desarrollo se puede seguir aquí.
+	- Recompensas por encontrar bugs (aquí)
 	- 4 auditorías independientes:
 		- 3 en los contratos principales (aquí)
 		- 1 en el contrato del agregador (aquí).
@@ -283,11 +284,11 @@ DeFi y Chainlink
 
 	Las DeFi (Finanzas Descentralizadas) son uno de los sectores que más rápido está creciendo en el ecosistema descentralizado. Las DeFi consisten no solo en exchanges descentralizados, sino también en plataformas de préstamo y derivados que se ejecutan de manera completamente descentralizada y preconfiable (trustless). 
 	
-	Las finanzas abiertas no consisten en crear un sistema partiendo de cero, sino en democratizar los sistemas ya existentes54 y hacerlos más equitativos usando protocolos abiertos y transparentes. El sistema financiero tradicional tiene algunas desventajas como la lentitud de las remesas transfronterizas, altas comisiones, censura/discriminación ("no se puede invertir a menos que se posea 1M$"), los bancos pueden congelar los fondos o incluso quebrar (como en la crisis financiera).
+	Las finanzas abiertas no consisten en crear un sistema partiendo de cero, sino en democratizar los sistemas ya existentes54 y hacerlos más equitativos usando protocolos abiertos y transparentes. Los sistemas financiero tradicionales tienen algunas desventajas como la lentitud de las transferencias internacionales,, altas comisiones, discriminación (“no se puede invertir a menos que se posea 1M$”), los bancos pueden congelar los fondos o incluso quebrar (como en la crisis financiera).
 	
 	El modelo de negocio de la industria DeFi requiere feeds de precios 100% seguros y precisos para todos sus activos (más del 90% de los instrumentos DeFi necesitan oráculos). En las DeFi, igual que en las finanzas tradicionales, la seguridad, la fiabilidad y la reputación son primordiales para obtener rentabilidad. Ver este artículo escrito por el equipo sobre las DeFi. 
 
-	Actualmente Chainlink proporciona datos de referencia para 36 activos o pares como EUR / USD. Esos feeds de precios ya están siendo usados por Synthetix (2ª plataforma con mayor valor en USD), Aave, Ampleforth y están siendo estudiados por dy/dx (6ª plataforma con mayor valor en USD) Datos de: defipulse.com | exploring.link | referencia ETH/USD
+	Actualmente Chainlink proporciona datos de referencia para 36 activos y pares. Esos feeds de precios ya están siendo usados por  Synthetix (top #2 en dólares), Aave, Ampleforth  Datos de: defipulse.com | exploring.link
 
 
 	Plataformas usando Chainlink
@@ -338,6 +339,8 @@ HEADER PAGE 5: Otros aspectos interesantes
 
 	- En enero de 2017, el Profesor Klaus Schwab, Fundador y Presidente del Foro Económico Mundial, escribió un libro llamado "La Cuarta Revolución Industrial". En dicho libro, Schwab describe a SmartContract.com como el promotor en la transición hacia Bitcoin y la Blockchain. (Ver aquí).
 
+	- Hay 3 tipos de APIs: Privadas/Asociadas/Públicas. 2 de ellas requieren contraseñas. Chainlink provee datos de las tres. Ninguno de sus competidores (Tellor/Band) ofrece datos de APIs privadas o asociadas.
+
 	- Chainlink está disponible a inversores de Nueva York en exchanges regulados en EE.UU como Coinbase, Gemini y Kraken. Pocos tokens se ofrecen a inversores de Nueva York pues las leyes financieras de Nueva York son de las más restrictivas del mundo.
 
 	- Chainlink adquirió el oráculo "Town Crier" de IC3 para aumentar las posibilidades de uso de su red de oráculos descentralizados mediante la compatibilidad con los TEEs. (Artículo de Forbes | Más info | * ¿Qué son los TEE? )
@@ -355,7 +358,15 @@ HEADER PAGE 5: Otros aspectos interesantes
 
 -------------------------------------------
 Cualquier dato.  Cualquier blockchain.
-(Here comes an image)
+
+(Imagen)
+
+Subtitulos a la imagen: 
+	- Izquierda: Conecta con cualquier feed de datos / API
+	- Centro:    Chainlink es compatible con blockchains públicas/privadas
+	- Derecha: 	 Realiza pagos a cualquier lugar	
+				 Conecta con sistemas backend
+
 
 
 ========
