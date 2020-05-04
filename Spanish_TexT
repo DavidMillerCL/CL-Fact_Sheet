@@ -155,15 +155,16 @@ Personalizando datos y seguridad
 		- TEEs ( Ver “*¿Qué es un TEE?” )
 		- Mixicles
 
-Código abierto y auditado
+	Reputación de los nodos / Ranking*: Los nodos de Chainlink cuentan con un "factor reputación". Los clientes de Chainlink podrá exigir un nivel mínimo de reputación a todos los nodos. La reputación de los nodos depende de los siguientes factores:
 
-	- Es un proyecto de código abierto (aquí).
-	- El desarrollo se puede seguir aquí.
-	- 4 auditorías independientes:
-		- 3 en los contratos principales (aquí)
-		- 1 en el contrato del agregador (aquí).
-		- 1 en Mixicles (en proceso).
-
+		- Disponibilidad del nodo (tiempo activo)
+		- Corrección de las respuestas
+		- Tiempo promedio que tarda en responder
+		- Número total de peticiones asignadas
+		- Número total de peticiones completadas
+		- Número total de peticiones aceptadas
+		- Nº de veces que se han pagado multas
+		- Tamaño de la fianza en LINK (staked)
 
 Uso de la red
 
@@ -192,7 +193,8 @@ HEADER PAGE 3: Blockchains con o sin permisos, públicas o privadas, no importa.
 
 	Aparecerán nuevos competidores, pero costará hacerse con una cuota del mercado ya que carecerán de la larga lista de nodos, proveedores de datos, las redes subvencionadas de oráculos, la seguridad, la ventaja de ser el primero y los efectos de red de los que ya dispone Chainlink.
 	
-
+	*Nota respecto a los competidores y el "oráculo" de Coinbase: Aunque Coinbase es una gran entidad con buena reputación en este ámbito, el servicio que provee no deja de ser un feed de precios (no un verdadero oráculo) y los resultados no los escribe en la blockchain. Por tanto no puede considerarse como un oráculo blockchain ni como un competidor dentro del ámbito de los oráculos.
+ 
 - Comunidad sólida
 
 	- La comunidad de Chainlink es una de las más amplias, mejor formadas y más creativas de la criptoesfera, en parte gracias a lo artístico de sus memes y a su camaradería.
@@ -213,6 +215,14 @@ HEADER PAGE 3: Blockchains con o sin permisos, públicas o privadas, no importa.
 	Actualmente buscan cubrir 11 vacantes. Vacantes aquí
 	El equipo no es dado al autobombo, su actitud es muy profesional.
 	
+	Código abierto y auditado
+
+	- Es un proyecto de código abierto (aquí).
+	- El desarrollo se puede seguir aquí.
+	- 4 auditorías independientes:
+		- 3 en los contratos principales (aquí)
+		- 1 en el contrato del agregador (aquí).
+		- 1 en Mixicles (en proceso).
 	
 ----------------
 
@@ -272,6 +282,8 @@ HEADER PAGE 4: Chainlink no compite con ninguna plataforma Blockchain, sino que 
 DeFi y Chainlink
 
 	Las DeFi (Finanzas Descentralizadas) son uno de los sectores que más rápido está creciendo en el ecosistema descentralizado. Las DeFi consisten no solo en exchanges descentralizados, sino también en plataformas de préstamo y derivados que se ejecutan de manera completamente descentralizada y preconfiable (trustless). 
+	
+	Las finanzas abiertas no consisten en crear un sistema partiendo de cero, sino en democratizar los sistemas ya existentes54 y hacerlos más equitativos usando protocolos abiertos y transparentes. El sistema financiero tradicional tiene algunas desventajas como la lentitud de las remesas transfronterizas, altas comisiones, censura/discriminación ("no se puede invertir a menos que se posea 1M$"), los bancos pueden congelar los fondos o incluso quebrar (como en la crisis financiera).
 	
 	El modelo de negocio de la industria DeFi requiere feeds de precios 100% seguros y precisos para todos sus activos (más del 90% de los instrumentos DeFi necesitan oráculos). En las DeFi, igual que en las finanzas tradicionales, la seguridad, la fiabilidad y la reputación son primordiales para obtener rentabilidad. Ver este artículo escrito por el equipo sobre las DeFi. 
 
@@ -342,12 +354,8 @@ HEADER PAGE 5: Otros aspectos interesantes
 	- Este será el único comentario respecto a Chainlink como inversión: El token de Chainlink (LINK) ha sido una de los activos de inversión con mayor rentabilidad en el top 100 durante el año 2019, superando a todos los activos crypto, incluído Bitcoin. (Ver aquí).
 
 -------------------------------------------
-
-SECONDARY HEADER PAGE 5: Blockchains que ya son compatibles con Chainlink
-
+Cualquier dato.  Cualquier blockchain.
 (Here comes an image)
-(change to include Ethereum, Hyperledger, Bitcoin, Polkadot, Cosmos, and EOS)
-
 
 
 ========
