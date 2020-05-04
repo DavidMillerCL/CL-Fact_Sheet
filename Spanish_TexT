@@ -107,7 +107,7 @@ La distribución del token de Chainlink
 	- Al disponer de su token, la red de Chainlink se protege de amenazas externas que puedan afectar a la capacidad económica de la red (fianzas en LINK), mejorando así la seguridad.
 	- Si la red sufriese un ataque a gran escala, las fianzas en LINK perderían su valor, desincentivando a los posibles atacantes, lo cual no ocurriría si se utilizase otro activo (ETH).
 	- Las Stablecoins no funcionarían igual de bien ya que están respaldadas por otras divisas (susceptibles de ser manipuladas) o dependen de oráculos para funcionar.
-	- La demanda creciente de LINK y una menor oferta (debido a las fianzas), genera una realimentado positiva por el cual el aumento de precio de LINK incrementa la capacidad económica de la red -> permite una mayor adopción.
+	- La demanda creciente de LINK y una menor oferta (debido a las fianzas), genera un bucle por el cual el aumento de precio de LINK incrementa la capacidad económica de la red -> permite una mayor adopción.
 	- Chainlink es blockchain-agnóstico y necesita un token que pueda moverse fácilmente entre ellas.
 
 
@@ -147,7 +147,7 @@ Personalizando datos y seguridad
 		- Selección y número de nodos
 		- Selección y numero de fuentes de datos
 		- Pagos a los nodos
-		- Requisitos de fianza (Colateral)
+		- Requisitos de fianza (aval)
 		- Requisitos de reputación mínima
 		- Condiciones de penalización
 		- Certificación del nodo
@@ -315,7 +315,7 @@ Chainlink está involucrado en varias iniciativas para armonizar y estandarizar 
 
 2. Baseline protocol y Chainlink
 
-	Baseline protocol, presentado en marzo de 2020 por una de las ‘Big four’ Ernst & Young en colaboración con Microsoft, Consensys, AMD, Chainlink y otros es una iniciativa de código abierto que combina avances en criptografía, blockchain y estándares abiertos para ofrecer procesos comerciales seguros y privados a bajo coste a través de Ethereum. El protocolo ofrece un framework a empresas para colaborar entre ellas de forma confidencial sin que tengan que exponer datos sensibles en la Blockchain. Ver la comunicado de prensa aquí.
+	Baseline protocol, presentado en marzo de 2020 por una de las ‘Big four’ Ernst & Young en colaboración con Microsoft, Consensys, AMD, Chainlink y otros es una iniciativa de código abierto que combina avances en criptografía, blockchain y estándares abiertos para ofrecer procesos comerciales seguros y privados a bajo coste a través de Ethereum. El protocolo ofrece un framework a empresas para colaborar entre ellas de forma confidencial sin que tengan que exponer datos sensibles en la Blockchain. Ver el comunicado de prensa aquí.
 
 3. Hyperledger Avalon y Chainlink
 
@@ -330,6 +330,10 @@ Page 5
 =========
 
 HEADER PAGE 5: Otros aspectos interesantes
+
+	- Oracle corp integrará Chainlink en el  Q3 2020 según la  propia confierencia  realizada por Oracle ‘Openworld 2020’. Transparencias aquí.
+
+	- Chainlink fué elegido por el World Economic Forum en su  “Tipping point report” como el "Shift in action" de los smart contracts.
 
 	- Chainlink forma parte de IC3, la iniciativa líder en investigación académica para la tecnología Blockchain fundada por Ari Juels. Otros miembros de IC3 aparte de Chainlink son JPMorgan, Microsoft, Cisco, Siemens e Intel.
 
