@@ -404,7 +404,7 @@ An example of chainlink working (with Staking)
 
 	4. All the Chainlink nodes which met Bob’s specifications now bid to be an oracle of his contract. Bob will then select the oracles that ask for the lowest amount of LINK as a transaction fee.
 
-	5. Bob’s selected nodes provide their data and their answers are aggregated by the aggregating contract Bob selected. Bob’s smart contract now gets this data, each node gets paid in LINK. In case any node misbehaves, the penalty payments are split between the requester and the account who sent the closing transaction.
+	5. Bob’s selected nodes provide their data and their answers are aggregated by the aggregating contract Bob selected. Bob’s smart contract now receives this data and each honest node gets paid in LINK. Malicious or non-repsonse nodes get their staked penalty payments slashed and it is split between Bob and the node who sent the closing transaction.
 
 	6. The honest and correct nodes now have more LINK, which they can keep for future penalty payments or they can sell it on the market.
 
