@@ -1,0 +1,618 @@
+﻿=========
+Page 1
+=========
+
+
+BIG CENTERED TOP HEADER: Smart Contracts & die Echtwelt
+
+
+HEADER PAGE 1: Ermöglicht sichere Ein und Ausgaben für Smart Contracts und Kompatibilität unter verschiedenen Blockchains
+
+
+Smart contracts sind unverfälschbare, Ende zu Ende gesicherte und hochverfügbare digitale Verträge die automatisch vollzogen werden. Damit ein Vertrag sicher und verlässlich vollzogen wird, müssen die Ein und Ausgaben ebenso gesichert sein. Mithilfe von Chainlink können Smart Contracts auf sichere Weise mit Daten aus der Echtwelt gefüttert werden.
+
+
+
+
+Übersicht
+
+
+        Generell können Blockchains und Smart Contracts nicht ohne weiteres mit externen Systemen kommunizieren. Damit ist das Potential der Smart Contracts strikt auf die Funktionen innerhalb der Blockchain begrenzt sodass Zahlungen und Echtwelterreignisse unerreichbar bleiben.
+
+
+        Um diese Limitierung zu überbrücken gibt es sogenannte “Oracles”. Sie liefern Daten von einem System in das andere. Das Problem von den heutigen Oracles jedoch ist dass sie zentrale Instanzen sind und die Kontrolle von solch einem System fällt wieder in die Hände von einem Mittelsmann, genau das was die Blockchain eigentlich lösen soll und vertrauen zwischen fremden Parteien schaffen soll.
+
+
+        Hier kommt Chainlink (ICO in 2017, Live seit Mitte 2019) ins Spiel, Chainlink wurde von der Firma SmartContract.com (gegründet in 2014) als Open Source Projekt gestartet und gilt als das erste dezentrale Oracle System dass jede Form von Daten, Events oder Bezahlsystemen extern mit Blockchains verbindet. Dadurch kann trotz Einfluss externer Daten die Sicherheit und Integrität der Blockchain gewahrt werden.
+
+
+        Die Verweise aus den nachfolgenden Seiten sind von http://chain.link http://smartcontract.com.
+
+
+
+
+Was Chainlink zu bieten hat
+
+
+        Smart contracts benötigen eine Middleware um auf Daten aus der Echtwelt zugreifen zu können. Diese Daten haben direkten Einfluss auf das Resultat des Smart Contracts. Deshalb ist es wichtig das diese Inputs extrem sicher und genau funktionieren.
+
+
+        Völlig egal ob es sich um ein kleines Startup oder ein riesen Konzern handelt, Chainlink als dezentrales Oracle Netzwerk Middleware kann deinen Smart Contract verifizierbar sicher und genau mit Daten wie Events, Finanzinfo oder Zahlungen füllen.
+
+
+        Entwickler aus jeder Industrie können in wenigen Schritten ihren eigenen ‘Chainlink’ aufsetzen um jegliche API an Smart Contracts verkaufen zu können während die Datenanbieter selbst ihre Daten weiterhin über ihre üblichen Schnittstelle verkaufen.
+Für das Erstellen eines Chainlink können Entwickler für etwas bezahlt werden das tausende Smart Contract benötigen.
+
+
+        Große Enterprise Firmen können mit Chainlink kollaborieren um existierende APIs auf dem Smart Contract Markt zu Monetarisieren. Einfach und schnell Daten und APIs mit Hilfe von Chainlink über eine Menge neuer Plattformen verkaufen. Unzählige Smart Contracts könnten dadurch Zugriff auf deine Services bekommen.
+
+
+
+
+Partnerschaften und Integrationen
+
+
+        - 30+ Price Feeds auf dem Ethereum Mainnet, genutzt von 14+ DeFi Applikationen in Produktion.
+        - 100+ Integrationen, wie z.B Polkadot, Tezos, Synthetix, Aave, Openlaw, Web3 und weitere.
+        - Kollaborationen mit großen Enterprise Firmen wie Google, Oracle, SWIFT
+        - Verfügbar in mehreren großen Entwicklungsumgebungen wie zum Beispiel der beliebten Truffle Suite die Ethereum Entwickler hauptsächlich nutzen.
+        - Chainlink arbeitet zusammen mit Intel, Microsoft, IBM und anderen an dem ‘Hyperledger Avalon’ Framework, welches sichere Off-Chain Berechnungen mithilfe von Intel SGX erlaubt.
+
+
+         VOLLSTÄNDIGE LISTE an Partnern, Kollaborationen, Frameworks und Kunden von Chainlink oder SmartContract.com unter https://chainlinkecosystem.com
+
+
+ 
+Anwendungsfälle
+
+
+        Zugriff auf externe Daten erlaubt eine ganze Welle an neuen Anwendungsfällen. Mit Daten gefüllte Smart Contracts sind von der Funktionalität her quasi ohne Limit.
+
+
+                - Geld und Finanzen
+                - Zahlungen
+                - Versicherung
+                - Lieferketten
+                - Regierungen und Behörden
+                - Enterprise Systeme
+                - Autorisierung und Identitätslösungen
+                - Dienstprogramme
+                - Glücksspiele
+                
+                Ein Großteil der visionären Smart Contract Anwendungsfälle von denen du vielleicht gehört hast, benötigen im Hintergrund eigentlich Chainlink. Einfach weil die Daten die es für den Anwendungsfall braucht für die Blockchain selbst unerreichbar sind. Um ein paar Beispiele zu nennen: Derivative Smart Contracts von Rohstoffen (Google Prototyp). Automatische Balancierung des Portfolio durch traditionelle Indikatoren wie RSI oder EMA, Markt-Sentiment oder sogar die aktuelle Bitcoin Hashrate. Versicherungen die automatisch eine Entschädigung auszahlen wenn ein Flug zu spät kommt, verschiedene Kredit-produkte ohne Mittelsmann wie Banken die ein Kollateral automatisch errechnen bzw. Anfordern, automatischer Boni-Score. Cloud Lösungen mit Blockchains verbinden und mehr.
+
+
+                 EIN SEHR EMPFEHLENSWERTER ARTIKEL ÜBER ANWENDUNGSFÄLLE FÜR SMART CONTRACTS DIE ÜBER TOKENISIERUNG HINAUSGEHEN: 44 ways to improve your smart contract
+ 
+ 
+* Ein und Ausgabe steht für eine bestimmte Information oder einen bestimmten Auslöser. Zum Beispiel als Eingabe den Preis von einem Bitcoin oder als Ausgabe eine Zahlung in Paypal zu verschicken. 
+* Eine API erlaubt Programme und Webseiten miteinander kommunizieren zu lassen. TradingView benutzt zum Beispiel Binance APIs um Preise zu ermitteln und in Charts darzustellen. Uber wurde mithilfe von APIs für Zahlungen, GPS, SMS und KYC geschaffen.
+
+
+========================
+Page2
+========================
+ 
+ 
+ 
+HEADER PAGE 2:        Blockchains mit zentralisierten Datenfeeds zu füllen ist sinnlos
+                                Chainlink sorgt für dezentrale und unmanipulierbare Ein und Ausgaben für JEDE Blockchain
+
+
+Dezentralisierung Erreichen
+
+
+        Ist es wirklich möglich die Wahrheit in einer Welt zu finden in der man einzelnen Quellen nicht vertrauen kann? Chainlink erreicht dass achieves this by being a NETWORK of oracles. Requested data is delivered by multiple oracles run by different independent node operators, using mutiple data source APIs, that are incentivized to provide proper data. 
+
+
+        By selecting several nodes and data sources, you provably increase the chances of getting a highly probable truth. Using Threshold Signatures, nodes will aggregate their responses off-chain in order to reach an agreement before the final data point is sent to the smart contract on-chain. Furthermore, nodes are selected by reputation and previous performance. Hence, you ensure the smart contract’s security not only by selecting a high number of nodes, but also by selecting highly reputable nodes to feed data. You can see an step-by-step example on how Chainlink works in page 3. See also Chainlink market
+
+
+
+
+Die Nutzung des LINK Token
+
+
+        Der LINK Token wird als Zahlung und Kollateral für die Sicherheit des Chainlink Netzwerkes genutzt. Wie der Token genutzt wird:
+
+
+        Zahlung an Node-Betreiber für das Liefern von Echtwelt-Daten an Smart Contracts.
+        Node-Betreiber nutzen LINK als Kollateral (Kaution/Sicherheit) das im Falle eines Ausfalls des Nodes oder nachweislich falschen Daten einbezogen und als Entschädigung an den Kunden ausgezahlt wird.
+
+
+        LINK ist ein ERC20 Token mit einem weiteren Standard, dem ERC677 obendrauf. ERC677 wurde spezielle von und für Chainlink entwickelt. Es bietet die Funktion “TransferAndCall” um innerhalb einer Transaktion zu bezahlen und Daten zu empfangen.
+
+
+        LINK ist ein Ethereum basierender Token aber für den Fall der Fälle kann er auf jede beliebige Blockchain transferiert werden. Chainlink ist demnach nicht von Ethereum abhängig.
+
+
+
+
+Chainlink Token-Verteilung
+
+
+        Es gibt insgesamt 1 Milliarde LINK Token
+
+
+        - 350 Mil. wurden beim Token-Sale verkauft.
+        - 350 Mil. um das ursprüngliche Netzwerk an Node-Betreibern zu Kickstarten (bevor es genug natürliche Nachfrage gibt - Huhn oder Ei Problem).
+        - 300 Mil. hält die Firma ‘SmartContract Chainlink Ltd’ (für die Finanzierung der Entwicklung von Chainlink und weiteres).
+
+
+Warum nutzt man nicht ETH anstelle von LINK?
+
+
+        Es gibt mehrere Gründe die für die Nutzung von LINK gegenüber ETH sprechen:        
+        
+        - Ties the incentives of node operators together with the health of the overall Chainlink network.
+        - Isolates the security and economic bandwidth (staked LINK) from external factors outside the control of Chainlink stakeholders.
+        - If a major network attack occured, LINK collateral then becomes worthless hurting the attacker, this is not true with an unrelated asset (ETH).
+        - Stablecoins wouldn’t work either as they are either backed by fiat & thus censorable or rely upon oracles to function.
+        - Growing demand for LINK combined with a shrinking supply (due to staking) creates a positive feedback loop where the increased adoption boosts the price of LINK, thus increasing economic bandwidth and enabling more adoption to be supported.
+        - Chainlink is blockchain agnostic & needs a token than can be easily bridged between blockchains.
+
+
+
+
+If LINK is an ERC token, works only with Ethereum?
+
+
+        No, ANY blockchain can easily write an external adapter to call Chainlink. See next section. 
+
+
+
+
+Blockchain Unabhängig
+
+
+        Chainlink supportet JEDE Blockchain. LINK wurde als Ethereum Token generiert aber Chainlink kann Daten von jeder zu jeder Blockchain schicken.
+
+
+
+
+        Es gibt zwei Wege Chainlink zu integrieren:
+
+
+        1. Any developer can create a simple external adapter enabling any blockchain to request and receive external data from Chainlink nodes. Through this, LINK payments and staking collateral is still performed on Ethereum.
+        
+        2. The LINK token can be bridged to another blockchain through LockDeposit contract enabling native LINK payment and staking support on any blockchain enabling applications outside of Ethereum to request  data without the need for  routing through Ethereum.
+
+
+        Chainlink Smart Contracts auf neuen Blockchains auszurollen und den Token zu überbrücken ist schon komplexer und benötigt Blockchain-Übergreifende Kommunikation.
+
+
+        Bisher Chainlink kompatible Blockchains:
+
+
+                - Ethereum
+                - Bitcoin
+                - Polkadot
+                - Kava/Cosmos
+                - Hedera Hashgraph
+                - Tezos
+                - Zilliqa
+                - Jede EVM-kompatible Blockchain
+                - Einige mehr
+
+
+Anpassbare Sicherheit und Daten
+
+
+        Chainlink’s Flexibilität kommt größtenteils durch die sog. "Service Agreements" (SA) Jeder Entwickler kann ein Oracle Netzwerk aufbauen wie auch immer er es benötigt.
+
+
+        Anpassungen einer Reihe verschiedener Parameter:
+
+
+                - Auswahl und Anzahl von Nodes
+                - Auswahl und Anzahl von Daten-Quellen
+                - Anzahl an LINK Token als Bezahlung
+                - Anzahl an LINK Token als Kollateral/Sicherheit als Anforderung
+                - Minimale Reputation
+                - Slashing Bedingung (Verlust des Stakes)
+                - Node Zertifizierung
+                -  “Threshold Signatures”
+                - TEEs (Siehe weiter unten für eine Erklärung von TEE’s )
+                - Mixicles
+                
+        Node Reputation/Ranking*: Chainlink Nodes haben einen Reputations-Faktor. Chainlink Kunden/Endnutzer können festlegen wie hoch der Wert an Reputation sein muss für ein Node um für den jeweiligen ‘Job’ in Frage zu kommen. Reputation ergibt sich aus folgenden Werten:
+
+
+                - Node Verfügbarkeit (Online-Zeit)
+                - Korrektheitsgrad der Antwort
+                - Durchschnittliche Rückmeldezeit
+                - Gesamtzahl zugewiesener Anfragen
+                - Gesamtzahl von abgeschlossenen Anfragen
+                - Gesamtzahl von akzeptierten Anfragen
+                - Menge an Strafzahlungen
+                - Menge an LINK als Kollateral (LINK Stake)                
+
+
+Netzwerk Nutzung
+
+
+        Wachstum von Chainlink betreffenden Smart Contracts Growth of Chainlink related smart contracts is indicates increased network utility & developer interest.
+        (Image)
+
+
+
+
+================
+Page 3
+================
+
+
+HEADER PAGE 3: Zugangsbeschränkte oder frei zugängliche, öffentliche oder private, alle Blockchains brauchen eine Oracle Lösung der man vertrauen kann um wirklich nützlich zu sein
+
+
+- First Mover Advantage
+
+
+        - First decentralized oracle framework.
+        - Long-standing connections to industry leaders (Swift, Google, & Oracle), leading research consultants (Gartner & Capgemini) & enterprise consortiums (IC3, EEA, Baseline protool & Hyperledger).
+        - Network effects: Chainlink’s large number of clients, nodes & data sources attracts usage.
+
+
+
+
+- Konkurrenz
+
+
+        - Direkt: Alternative dezentrale Orakel die nicht flexibel mit der dezentraliserung oder dem Datenformat sind oder plattformabhängig sind. Davon eingeschlossen sind Tellor, Witnet,  Compound's OOS, Maker's OSM und Doracle von iExec (hat Chainlink integriert) & Band.
+        
+        - Indirekt: Zentrale Orakel wie Provable Provable (Partnerten mit Chainlink) und Rhombus.
+
+
+
+
+        Auftauchende Konkurrenz wird es schwer haben Marktanteil zu bekommen wenn die meisten dApps bereits ein dezentrales Orakel integriert hat das sich über Jahre bewiesen hat und einen riesigen Netzwerk Effekt mit zu bringt. 
+        
+        *Info über die Konkurrenz und dem ‘Coinbase Oracle’’: Although Coinbase being a big and reputable actor in this space, the service they provide is a price feed (not general oracle) and the results are not being written on chain. Therefore it cannot be considered a blockchain oracle nor competitor in the Oracle space.
+
+
+- Starke Community
+
+
+        - Die Chainlink Community (die Marines) sind eine der größten, besten unterrichteten und kreativsten Communities im Krypto-Umfeld, bekannt für seine riesen Menge an Memes und Kameradschaft.
+        - Offizielles Discord und Gitter um das Team zu erreichen.
+        - An official Chainlink community advocate program already exists in multiple cities  and continents around the world. City list here.
+        
+
+
+- Team
+
+
+        25+ Mann Team
+        6 Berater, unter anderem:
+                - Tom Gonser (Docusign Gründer). Artikel
+                - Ari Juels (formalisierte Proof of Work; RSA Chief Scientist; IC3 Gründer)
+                - Evan Cheng (Facebook R&D Dir & LLVM   Autor bei Apple)
+                - Hudson Jameson (Ethereum Foundation)
+                - Andrew Miller (Konsens Forscher)
+
+
+        Momentan 11 offene Positionen. Karriere hier
+        Kein Hype vom Team, nur Professionalität.
+
+
+- Open Source & Prüfbar
+
+
+        - Der Code ist Open Source (hier).
+        - Entwicklung öffentlich einsehbar (hier).
+        - Bug Belohnungs Programm (hier)
+                - 4 unabhängige Audits:
+                - 3 vom Haupt Contract (hier).                 
+                - 1 vom Aggregator Contract (hier).
+                - 1 von Mixicles (in Bearbeitung).
+        
+        
+----------------
+
+
+        
+SECONDARY HEADER PAGE 3: Ein Blick auf die Technology hinter Chainlink
+
+
+Together these innovative pieces of technology provide the most advanced oracle solution to date
+
+
+
+
+1. Privacy & auditability: Mixicles
+
+
+        Mixicles is essentially a mixer that uses external oracles to enable on-chain privacy for public blockchain smart contracts. The contract is split into two parts, where the sensitive data and business logic is kept off-chain with private settlement on-chain. Mixicles enable:
+
+
+                - Keeping private the contract business logic & the external oracle data & final payee result.
+                - Financial contracts are private to the public but auditable to regulators.
+                - Blockchain agnosticism & can be used in enterprise blockchains as well. 
+                - A new generation of privacy preserving & scalable DeFi instruments.
+
+
+        Mixicles are currently under audit. Highly recommended article here. 
+
+
+
+
+2. Low cost & scalable: Threshold Signatures
+
+
+        Threshold signatures (TS) are being implemented in Chainlink which allows nodes to batch their responses off-chain substantially reducing transaction costs (gas) while minimizing the effects of blockchain network congestion. 
+
+
+        How can this be achieved? Threshold Signatures pave the way to solving the oracle dilemma: One wants hundreds, thousands, even tens of thousands of witnesses to agree on a data point but that is expensive due to the growing amount of transactions needed.
+
+
+        TS enable oracles to talk to each other off-chain, agree on an observation, aggregate a single signature proving group observation and then respond to the original data request using only a single on-chain transaction. Article
+
+
+
+
+3. Trusted Computation Framework
+
+
+        The Trusted Compute Framework (TCF) is way for enterprises to use trusted execution environments (*TEEs) to secure off-chain computations to be used by on-chain contracts. Chainlink ensures that the data being delivered is encrypted and tamperproof end to end.
+
+
+        Typically computation takes place on-chain and is very expensive. TCF instead allows contracts to shift complex computations from on-chain to off-chain systems (on-premise or in cloud VM’s) and once finished post the results back on-chain all while keeping verification and attestation verification properties.
+
+
+        Chainlink is part of the "Hyperledger Avalon Trusted Compute Framework" amongst Intel, IBM, Microsoft, Alibaba Cloud and Banco Santander.
+        See Intel Press Release & Article.
+
+
+
+
+4. Staking Collateral (Direct skin in game)
+
+
+        In short, staking is when nodes delivering data to a smart contract stake a predetermined amount of LINK as collateral.
+
+
+        In the case nodes fail to deliver a reliable data point, provides it in an untimely manner, or doesn't deliver data at all, they are penalized by getting their LINK collateral slashed hurting nodes financially.
+
+
+        When nodes instead provide a reliable, timely data point to an oracle assignment, they are paid a fee in LINK. They can withdraw the fees and keep their collateral or withdraw partially/totally their collateral too.Malicious or non-responsive nodes will have their collateral slashed & their reputation will be reduced as a punishment too. Article.
+
+
+        This is how the Chainlink network incentivizes honest behaviour and penalizes malicious behavior of nodes.
+
+
+========
+Page 4
+========
+
+
+HEADER PAGE 4: Chainlink konkurriert nicht mit Blockchain-Plattformen, sondern verbessert sie
+
+
+
+
+DeFi & Chainlink
+
+
+    DeFi (Decentralized Finance) ist derzeit einer der am schnellsten wachsenden Sektoren im dezentralen Ökosystem. DeFi besteht nicht nur aus dezentralen Börsen, sondern auch aus Kreditplattformen und Derivaten, die vollständig dezentral und vertrauenswürdig betrieben werden.
+
+
+    Bei Open Finance geht es nicht darum, ein neues System von Grund auf neu zu erstellen, sondern das bestehende System zu demokratisieren und es mit offenen Protokollen und transparenten Daten gerechter zu gestalten. Das traditionelle Finanzsystem weist einige Nachteile auf, wie z.B. langsame grenzüberschreitende Überweisungen, hohe Gebühren, Zensur / Diskriminierung ("Sie können nur investieren, wenn Sie 1 Mio. USD besitzen“), Banken können Gelder einfrieren oder sogar wie in der Finanzkrise Banken zum Absturz bringen. (way longer than english)
+
+
+    Das Geschäftsmodell für den DeFi-Sektor erfordert 100% sichere und genaue Preis-Feeds aller Vermögenswerte (Orakel werden in 90%+ aller Anwendungsgebiete von DeFi benötigt). In DeFi wie auch im Finanzwesen im Allgemeinen sind Sicherheit, Zuverlässigkeit und Reputation für die Rentabilität gleichermaßen von größter Bedeutung. Lesen Sie diesen empfehlenswerten Artikel des Teams über DeFi.
+
+
+    Chainlink liefert derzeit die Referenzdaten für 36 Vermögenswerte oder Handelspaare wie EUR / USD. Diese Preis-Feeds werden bereits von Synthetix (Top 2 an gesicherten USD), Aave (Top 5), Ampleforth und von dy/dx (Top 7) untersucht. Daten von: defipulse.com, Exploring.link, Referenz ETH / USD, Liste aller bereitgestellten Feeds
+
+
+
+
+        GESAMTWERT DURCH CHAINLINK GESICHERT
+        Stand 1.Mai 2020
+        158 M$
+
+
+        Synthetix: Synthetic Vermögenswerte        $100M
+        Aave: Verleihen&Leihen                        $40M
+        DMM: Vermögenswerte der realen Welt        $8M
+        Ampleforth: Warengeld                        $5M
+        Loopring: DEX Protokoll                        $3M
+        BZX: DEX Protokoll                                $2M
+
+
+------------------
+
+
+SECONDARY HEADER SEITE 4: Chainlink und der Standardisierungsprozess
+
+
+Chainlink ist an mehreren Initiativen beteiligt, um Blockchain-Technologien zu standardisieren
+
+
+
+
+1. Enterprise Ethereum Alliance & Chainlink
+
+
+    Die Enterprise Ethereum Alliance (EEA) ist eine von Mitgliedern betriebene Organisation zur Durchsetzung von Standards, deren Charta darin besteht, offene Blockchain-Spezifikationen zu entwickeln, die die Harmonisierung und Interoperabilität für Unternehmen und Verbraucher weltweit fördern. Chainlink ist seit 2017 Teil der EEA zusammen mit sehr bekannten Unternehmen. Im Januar 2020 schuf die EEA die von Chainlink und anderen geleitete Taskforce "Mainnet Integration for Enterprises“ - EMINENT.
+
+
+    Der Schwerpunkt dieser Arbeitsgruppe liegt auf der Erstellung von Open Source-verfügbaren Referenzimplementierungen und Richtlinien für die Integration des Ethereum-Mainnets in Unternehmens- "Aufzeichnungssysteme". Mit anderen Worten, das Ziel ist es, einen Standard zu erreichen, der es ermöglicht, Business-Backends (CRMs & ERPs) mit dem Ethereum-Mainnet zu verbinden.
+
+
+2. Baseline Protocol & Chainlink
+
+
+    Das Baseline-Protokoll, das im März 2020 von Ernst & Young in Zusammenarbeit mit Microsoft, Consensys, AMD, Chainlink und anderen vorgestellt wurde, ist eine Open-Source-Initiative, die Fortschritte in Kryptografie, Blockchain und offenen Standards kombiniert, um sichere und private Geschäftsprozesse über das öffentliche Ethereum Mainnet zu niedrigen Kosten bereitzustellen. Das Protokoll bietet Unternehmen einen gemeinsamen Rahmen, der eine vertrauliche und komplexe Zusammenarbeit zwischen ihnen ermöglicht, ohne dass sensible Daten auf die Blockchain gelangen. Siehe Pressemitteilung hier.
+
+
+3. Hyperledger Avalon & Chainlink
+
+
+    Im Oktober 2019 stellte Hyperledger das Projekt „Hyperledger Avalon“ vor. Es handelt sich um eine vom Ledger unabhängige Implementierung des Trusted Compute Framework. Ziel ist es, die On-Chain-Verarbeitung auf sichere Weise auf Off-Chain (Cloud) zu verlagern. Avalon wurde entwickelt, um die Nachteile der On-Chain-Berechnung (Skalierbarkeit und Vertraulichkeit) abzumildern. Es entlastet die Blockchain, erhöht die Leistung und behält gleichzeitig Integrität und Bezeugbarkeit bei. Chainlink arbeitet zusammen mit anderen Partnern wie IBM, Oracle, Microsoft und anderen an der Avalon-Spezifikation. (Intel Pressemitteilung)
+
+
+* Was ist TEE? Eine Trusted Execution Environment (TEE) ist ein hochsicherer, hardwarebasierter, isolierter Rechenbereich in modernen CPUs, der die Ausführung privater und attestierter Berechnungen ermöglicht, auf die Anwendungen, das Betriebssystem, der Manager virtueller Maschinen oder sogar der Computerbetreiber nicht zugreifen können.
+
+
+
+
+=========
+Page 5
+=========
+
+
+HEADER SEITE 5: Einige interessante Highlights
+
+
+
+
+- Oracle Corp wird Chainlink im dritten Quartal 2020 gemäß der Openworld 2020-Konferenz von Oracle integrieren. Folien hier.
+
+
+    - Chainlink ist seit langem Mitglied der IC3 (Initiative for Cryptocurrencies and Contracts), der führenden akademischen Forschungsinitiative für Distributed Ledger Technology und wurde von Ari Juels mitgegründet. Neben Chainlink sind JPMorgan, Microsoft, Cisco, Siemens und Intel weitere IC3-Mitglieder.
+
+
+    - Über ISDA (International Swaps & Derivatives Association): Im Januar 2020 wurde BAPI angekündigt, eine bilaterale Plattform für intelligente Derivate, die Technologien wie eine Standard-ISDA-Vorlage, Ethereum, OpenLaw, Chainlink und Kaleido verwendet. Es wurde von Carlos Matilla, Executive Director bei der Santander Investment Bank, mitentwickelt.
+
+
+    - Chainlink arbeitet derzeit mit SWIFT, dem globalen Standard für Interbank-Messaging. SWIFT wird von mehr als 11.000 Finanzinstituten in mehr als 200 Ländern und Territorien verwendet. Über 32 Millionen Nachrichten bewegen täglich Billionen von Dollar.
+
+
+    - Im Januar 2017 schrieb Professor Klaus Schwab, Gründer und Vorsitzender des Weltwirtschaftsforums, ein Buch mit dem Titel „Die vierte industrielle Revolution“. In diesem Buch beschreibt er SmartContract.com als Wendepunkt für den "Shift in Action" unter "Bitcoin and the Blockchain". (Siehe hier).
+
+
+    - Chainlink ist den US-regulierte Handelsplattformen Coinbase, Gemini und Kraken gelistet, die New Yorker Anlegern das Handeln mit LINK anbietet. Die Gesetze zum Finanzrecht in NYC gehören zu den härtesten der Welt.
+
+
+    - Chainlink erwarb das von IC3 programmierte Orakel „Town Crier“, um die Möglichkeiten seines dezentralen Orakelnetzwerks mit Unterstützung nativer TEEs (Trusted Execution Environments) zu erweitern. (Forbes Artikel | Weitere Informationen | * Was ist ein TEE?)
+
+
+        - Chainlink hat zwei wichtige Marktplätze:
+
+
+- market.link, erstellt von LinkPool, ist ein Marktplatz, auf dem jeder seine Nodes, Adapter und die von ihm angebotenen Jobs auflisten kann. Jeder kann diese Liste von Nodes sehen und nach verschiedenen Kriterien filtern.
+
+
+- Honeycomb.market, von CLCG erstellt, ermöglicht Entwicklern ihre intelligenten Verträge und dezentralen Apps mithilfe mehrerer hochwertiger und geprüfter Chainlink-Nodes von Betreibern wie Certus.One, LinkForest & Cosmostation mit einer Vielzahl hochwertiger, kostenpflichtiger APIs verbinden. Testnet-APIs werden kostenlos angeboten.
+
+
+
+
+- Selbst zentralisierte Orakel wie "Provable" können ihre Daten weiterhin wie gewohnt verkaufen, indem sie einen externen Adapter erstellen und Daten als weitere verfügbare Quelle im Chainlink-Netzwerk verkaufen. Daher verdienen beide Geld mit dem Verkauf von Daten auf ihre reguläre zentrale Art und Weise sowie über das dezentrale Chainlink-Netzwerk.
+
+
+
+
+- Dies ist die einzige Bemerkung zu Chainlink als Investition: Chainlink war in den letzten 2,5 Jahren die Kryptowährung mit der besten Performance. Der ROI (Return on Investment) ist 1.700% höher als der durchschnittliche Altcoin und + 900% besser als Bitcoin. (Siehe hier).
+
+
+-------------------------------------------
+Jede Art von Eingabe. Jede Art von Ausgabe. Jede Art von Blockchain.
+(Here comes an image)
+
+
+
+
+
+
+========
+Page 6
+========
+
+
+HEADER PAGE 6: Von Chainlink unterstützte Blockchains
+
+
+(Here comes an image)
+
+
+SECONDARY HEADER PAGE 4: Chainlink anhand von Beispielen und häufig gestellten Fragen
+
+
+
+
+Ein Beispiel für das Arbeiten mit Chainlink (mit Staking) (1 general all this section has paragraphs with extra lines each one, see PDF)
+
+
+
+
+    1. Bob braucht vertrauenswürdige Daten für seinen Smart Contract, also fragt er Chainlink ab.
+
+
+    2. Dann fordert Bob eine bestimmte Anzahl von Chainlink-Nodes unter Verwendung eines Smart Contracts an, der angibt, dass sie mindestens eine bestimmte Anzahl vorheriger Transaktionen erfüllen müssen, eine bestimmte Prozentzahl an Genauigkeit in ihrer Auftragshistorie haben und verlangen, dass von jedem einzelnen Knoten eine bestimmte Menge an LINK als Strafzahlung eingesetzt wird als Garantie dafür, dass sie ihren Teil der Arbeit wahrheitsgemäß erfüllen.
+
+
+    3. Bob legt außerdem fest, wie viel LINK er bereit ist, für den Datenabruf zu zahlen.
+
+
+    4. Alle Chainlink-Nodes, die Bobs Anforderungen entsprechen, bieten nun darum ein Orakel für seinen Smart Contract sein. Bob wählt diejenigen Orakel aus, die den niedrigsten LINK-Betrag als Transaktionsgebühr verlangen.
+
+
+    5. Die von Bob ausgewählten Nodes stellen die geforderten Daten bereit und ihre Antworten werden durch den von Bob ausgewählten Aggregationsvertrag zusammengetragen. Diese Daten werden nun an Bobs Smart Contract übermittelt, jeder Node wird in LINK bezahlt und die Strafzahlungen werden an all diejenigen Nodes vergeben, deren Daten nicht mit dem Konsens nicht überein gestimmt haben.
+
+
+    6. Die Nodes deren gelieferten Daten mit dem Konsens übereingestimmt haben, verfügen jetzt über mehr LINK, die sie für zukünftige Strafzahlungen behalten oder auf dem Markt verkaufen können.
+
+
+    Zwei wichtige Hinweise:
+
+
+    - Sobald Mixicles live ist (momentan in Überprüfung durch Dritte), werden der gesamte Prozess, die Vertragsgeschäftslogik und die externen, durch Orakel gelieferte Daten, sowie das endgültige Ergebnis des Zahlungsempfängers geheim gehalten, während sie durch Aufsichtsbehörden weiterhin prüfbar sind.
+
+
+    - Sobald die Threshold Signatures aktiv sind und nicht jeder Node seine Antwort in die Kette schreibt (hohe Kosten, und Überlastung des Netzwerks), wird ein Konsens außerhalb der Blockchain (Off-Chain) erreicht und Ergebnisse in nur einer Transaktion auf die Blockchain geschrieben.
+
+
+
+
+
+
+FAQ - Häufig gestellte Fragen und Antworten
+.
+
+
+
+
+Ist Node-Ranking und Staking dasselbe?
+    
+             Nein, jeder Knoten hat ein Ranking (Reputation), das durch seine frühere Leistung bestimmt wird. Das Einsetzen von LINK-Tokens (“Staking”) ist eine zusätzliche Metrik, die von den Antragstellern bei der Auswahl der möglichen Nodes berücksichtigt wird. Wenn mehr LINK zum Staken verfügbar ist, erhöht sich die Wahrscheinlichkeit, dass ein Noden Wahrheitsgemäß handelt, aber auch das Ranking eines Knotens spielt dabei eine Rolle. (1 line longer)
+
+
+
+
+Würde mein LINK-Node nicht automatisch im Ranking steigen wenn ich einen riesen Menge an LINK halten würde? (1 line longer)
+
+
+        Nein, das Node-Ranking berücksichtigt verschiedene Faktoren für die Reputation eines LINK-Nodes von denen das Staking und die eingesetzte Menge an LINK-Tokens nur einer der Parameter neben vielen anderen ist.
+
+
+
+
+Was für Faktoren sind für das Node Ranking relevant?
+        
+Dies hängt von einer Vielzahl von Faktoren ab: Uptime, Richtigkeit/Genauigkeit der Antworten, Gesamtzahl der zugewiesenen/ akzeptierten/ abgeschlossenen/ abgelehnten Anfragen, durchschnittliche Antwortzeit, Historie der Strafzahlungen und die Anzahl der eingesetzten LINKs. (1 line longer)
+
+
+
+
+Ist Staking schon live?
+    
+             Nein, es wird wahrscheinlich nach anderen Hauptmerkmalen wie Mixicles & Threshold Signatures kommen. Netzwerke werden momentan durch den Ruf eines Nodes und die Opportunitätskosten für den Verlust zukünftiger Einnahmen gesichert, sollten Nodes in eigenem Interesse bzw. Böswillig handeln. Das Chainlink-Kernteam subventioniert auch Orakel-Netzwerke mit den Mitteln aus dem Token-Verkauf, um sicherzustellen, dass die Knoten richtig reagieren und ein Node in den frühen Tagen des Netzwerks wirtschaftlich betrieben werden kann.
+
+
+
+
+Was sind die Erträge aus dem Staken?
+        
+             Dies variiert von Node zu Node basierend auf dem Ranking (siehe Nr. 3), der Reputation, der Anzahl der eingesetzten LINKs und dem Volumen der empfangenen Jobs. Je zuverlässiger, genauer und schneller ein Node reagiert, desto wahrscheinlicher ist es, dass er aufgrund des höheren Auftragsvolumens und der höheren Gebühren, die erhoben werden können, höhere Renditen für seine eingesetzten LINK erzielt.
+
+
+
+
+
+
+Wird es Verträge geben bei denen keine LINK-Tokens eingesetzt werden müssen? (1 word extra)
+
+
+        Ja, Verträge können eine beliebig festgelegte Anzahl an eingesetzten LINK-Tokens erforden (siehe Abschnitt “Customizing data & security in page 1”). Die eingesetzte Anzahl an LINK ist nur einer von mehreren Faktoren, die der Antragsteller/Ersteller in seinem Dienstleistungsvertrag verlangen kann. Es liegt an den Antragstellern, wie viel LINK für einen Job eingesetzt werden muss, und es ist Sache des Node-Operators zu entscheiden, welche Job er annehmen möchte.
