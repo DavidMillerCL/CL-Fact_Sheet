@@ -1,0 +1,3 @@
+Go to: https://mapchart.net/world.html
+Import the txt data
+Ready to modify the map
