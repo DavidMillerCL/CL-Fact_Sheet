@@ -1,0 +1,68 @@
+=========
+Page 1
+=========
+
+BIG CENTERED TOP HEADER: Smarta kontrakt & verkligheten
+
+HEADER PAGE 1: Möjliggörande av säker I/O till smarta kontrakt & interoperabilitiet mellan blockkedjor
+
+Smarta kontrakt ger förmågan att exekvera manipuleringssäkra digitala överenskommelser som är sedda som väldigt säkra och väldigt pålitliga. För att upprätthålla ett kontrakts pålitlighet så måste också inputsen och outputsen som kontraktet tillförlitar sig på också vara säkra. ChainLink erbjuder pålitlig, säker och obruten uppkoppling till extern data. 
+
+
+Översikt
+	Historiskt sett så har inte blockkedjor som smarta kontrakt körs på tillgång till inbyggd kommunikation med externa system, och potentialen som smarta kontrakt har är begränsad av deras oförmåga att ta in off-chain data, händelser, och betalningar. 
+	
+	Idag är lösningen till detta problem att introducera en ny funktionalitet, kallad ett "orakel", som ska erbjuda denna koppling till den externa världen. Orakel hittils är centraliserad tjänster, vilket betyder att alla smarta kontrakt som använder en sådan tjänst också har en enda "point of failure", vilket upphäver alla fördelar av den decentraliserade aspekten av smarta kontrakt. 
+	
+	För att överkomma denna begränsning tog man fram ChainLink (token sale '17, launch '19) av SmartContract.com (grundades '14) som det första decentraliserade ramverket som kan erbjuda extern data till smarta kontrakt på vilken blockkedja som helst. Ett resultat av detta är att  säkerheten och determinismen av smarta kontrakt kan bli kombinerat med kunskapen och bredden av verklighetens externa händelser. ChainLink erbjuder dina smarta kontrakt tillgång till all extern data som du behöver. 
+	
+	Du kommer att se ChainLink refererat i artiklar både som https://chain.link & https://smartcontract.com
+	
+	
+Vad ChainLink har att erbjuda
+	
+	Smarta kontrakt kräver mellanprogram ("middleware" i engelskan), för att koppla dom till verklighetens data. Eftersom denna data kommer att trigga ett kontrakts utfall så läggs det höga krav på datans integritet och pålitlighet. 
+	
+	Det spelar ingen roll om du är en startup eller ett stort företag, Chainlink som ett decentraliserat orakel kan erbjuda dina smarta kontrakt med bevisligt säker tillgång till extern data från feeds, *APIs och betalningar. 
+	
+	Vilken utvecklare som helst kan snabbt bygga och köra deras egna Chainlink för att sälja valfritt API till smarta kontrakt medan dataleverantören säljer deras API genom deras gränssnitt som vanligt. Genom att skapa en ny Chainlink som en utvecklare kommer du att bli betald genom att du skapar något som tusentals av smarta kontrakt kommer att tillförlita sig på. 
+	
+	Större företag kan ansluta sig med Chainlink för att erbjuda existerande API'er till handel  av smarta kontrakt. Du kan snabbt och enkelt sälja ditt företags data och vilka som helst av era API'er genom Chainlink. Erbjud oräkneliga smarta kontrakt med förmågan att köpa dina tjänster direkt. 
+	
+Partners & klienter
+
+	- 30+ Pris-feeds på Ethereums huvudnät använda av 14+ DeFi-projekt i produktion.
+	- 100+ integrationer inklusive Polkadot, Tezos, Synthetix, Aave, Opwnlaw, Web3 och mer.
+	- Partners med stora företag såsom Google, Oracle, SWIFT och fler. 
+	- Tillgängligt i många "development frameworks", särskilt Truffle vilket är den överlägset mest populära.
+	- Chainlink tillsammans med Intel, Microsoft, IBM och fler utvecklar "Hyperledger Avalon", vilket tillåter att beräkningar sker säkert off-chain genom TEE's såsom Intel SGX.
+	
+	FULL LISTA av platformar, integrationer, ramverk, klienter, och partners
+	https://chainlinkecosystem.com
+	
+Användningsområden
+	
+	Tillgång till extern data tillåter ett helt nytt område av funktionalitet för smarta kontrakt. Anknutna smarta kontrakt har obegränsad potential över en bred variation av industrier:
+		- Pengar och Finans
+		- Betalningar
+		- Försäkring
+		- Supply chain
+		- Administration
+		- Företagssystem
+		- Authorisation och Identitet
+		- Verktyg
+		- Hasardspel
+
+		I stort sett vilka som helst idéer som folk kommer på när dom är entusiastiska över Ethereum kräver data som inte är tillgänglig på blockkedjor. För att ta några exempel: derivat av råvaror på smarta kontrakt (Google prototyp), automatisk ombalancering av portföljer baserad på traditionella handelsindikatorer såsom RSI och EMA, marknadssentiment eller till och med nätverkssvårigheten av Bitcoin, automatiska försäkringsbetalningar när ett flyg ankommer sent, triggandet av generiska bankttjänster baserad på utfallet av smarta kontrakt, olika typer av lånande utan mellanhänder baserat på översäkrande eller boni-score, brygga mellan moln-infrastruktur till smarta kontrakt och mer. 
+		
+		EN HÖGT REKOMMENDERAD LÄSNING OM ANVÄNDNINGSOMRÅDEN: 44 sätt att förbättra dina smarta kontrakt
+		
+	* I/O står för Input/Output. I blockkedjevärldens kontext så är Inputs all information som går in i ett smart kontrakt, och Output är alla utfall från exekveringen av dom smarta kontrakten triggat av ovannämnda Inputs. 
+	* Ett API tillåter smarta program att kommunicera med varandra. TradingView använder ett Binance API för att hämta pris/volym-data för att visa det på deras egna hemsida. Uber var byggt genom användade av betalnings, GPS, SMS och KYC API'er. 
+	
+========================
+Page2
+========================
+ 
+ 
+	
