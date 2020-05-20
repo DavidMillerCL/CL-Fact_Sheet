@@ -1,12 +1,14 @@
 
-			MAIN TRANSLATOR		2ND TRANSLATOR/REVIEWER
+			MAIN TRANSLATOR					2ND TRANSLATOR/REVIEWER
 			===========================================
 Spanish		@ChainlinkSpain
 Chinese		@Chainlink_INFO	(contact him)
-German		@DLTPandu
+German		@DLTPandu + @baumgart_v
 Poland		@adenbead
 Swedish		@Mynningen
 Finish		@LinkFinland
-French		@ntmness			@Swisscrypt0
+French		@ntmness + @Swisscrypt0			@fjarross
 Korean 		@klortu868o
-English		@cryptoDavid_		@ChainLinkGod | @hahus
+Latvian		@LinkCadet
+Portuguese	@mamuteporpeta
+English		@cryptoDavid_					@ChainLinkGod | @hahus
