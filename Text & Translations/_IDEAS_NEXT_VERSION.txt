@@ -1,0 +1,21 @@
+ADD IN V4: 
+
+===========================================================================
+Node reputation can be checked here: https://www.reputation.link/
+
+
+===========================================================================
+https://twitter.com/ChainLinkGod/status/1262837926045421579
+
+In order to expand 
+@Chainlink
+'s blockchain agnosticism, core smart contracts are being rewritten from Solidity into the native programming language of other blockchains!
+
+e.g. Contracts are being written in Michelson for 
+@Tezos
+, Python for 
+@OntologyNetwork
+, etc
+
+===========================================================================
+Add  Klaytn hybrid blockchain to list of blockchains using chainlink

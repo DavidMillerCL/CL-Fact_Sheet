@@ -172,7 +172,6 @@ Customizing data & security
 		- Amount of penalty payments
 		- Amount of LINK held (staked)		
 
-	ADD IN V4: Node reputation can be checked here: https://www.reputation.link/
 
 Network usage
 
