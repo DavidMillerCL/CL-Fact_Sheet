@@ -19,3 +19,10 @@ e.g. Contracts are being written in Michelson for
 
 ===========================================================================
 Add  Klaytn hybrid blockchain to list of blockchains using chainlink
+
+=================
+Random Number Generator
+
+=================
+
+Chinese blockchain
