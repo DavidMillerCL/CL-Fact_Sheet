@@ -337,6 +337,10 @@ Chainlink is involved in several initiatives in order to harmonize and standariz
 * What is TEE? A trusted execution environment (TEE) is a highly secure, hardware based isolated computational space in modern CPUs, allowing for the execution of private  and attested computations, inaccessible to applications, the operating system, virtual machine manager, or even the computer’s operator. 
 
 
+4. InterWork Alliance & Chainlink
+
+InterWork Alliance (IWA), announcd in June 2020, is a platform-neutral, non-profit organization aiming to create standardized frameworks to boost innovation and development of tokenized ecosystems. Token standards are needed to ensure interoperability of decentralized applications amongst the different blockchain networks. Chainlink is a principal member of this alliance alongside other large enterprises. Website & members
+
 =========
 Page 5
 =========
