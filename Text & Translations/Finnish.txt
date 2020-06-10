@@ -1,0 +1,446 @@
+=========
+Page 1
+=========
+
+BIG CENTERED TOP HEADER: Älysopimukset & oikea maailma
+
+HEADER PAGE 1: Toteuttaa turvallinen I/O' älysopimuksiin & tulkittavuus lohkoketjujen välillä
+
+
+Älysopimukset tarjoavat toteutuksen peukaloinnilta suojattuihin digitaalisiin sopimuksiin, jotka ovat luokiteltu erittäin turvallisiksi ja luotettaviksi. Sopimuksen yleisen luotettavuuden ylläpitämiseksi, siirräntöihin (I/O), joihin sopimuset perustuvat, on myös oltava turvallisia. Chainlink tarjoaa luotettavaa ja turvallista päästä päähän yhteyksiä ulkoiseen dataan.
+
+
+
+Yleiskatsaus
+
+	Historiallisesti lohkoketjut,joissa älysopimukset toimivat,eivät tue syntyperäistä kommunikaatiota ulkoisten järjestelmien kanssa. Älysopimusten potentiaali on ollut kuristettu niiden kyvyttömyydestään yhdistää off-chain-dataa, tapahtumia ja maksuja.
+
+	Tänään ratkaisu tähän ongelmaan on esitetty uudella toiminallisuudella, jota kutsutaan 'ORAAKKELIKSI', joka tarjoaa yhteyden ulkomaailmaan. Oraakkelit ovat kuitenkin olleet tähän mennessä keskitettyjä palveluita. Eli jokaisessa älysopimusta käyttävässä palvelussa on ollut yksi suuri vikakohta. Se mitätöi kaikki saavutetut hyödyt hajautetunluontoisilta älysopimuksilta.
+
+	Tämän kuilun täyttämiseen, Chainlink (token myynti alkoi '17, launchattiin '19) kehitettiin SmartContract.com:in toimesta (perustetttiin '14) ensimmäiseksi hajautetuksi oraakkeli puitteiksi , joka voi tarjota ulkoista dataa älysopimuksille mihin tahansa lohkoketjuun. Tämän seurauksena älysopimusten turvallisuus ja determismi voidaan yhdistää todellisen maailman ulkoisten tapahtumien tuntemiseen ja laajuuteen. Chainlink tarjoaa sinulle älysopimusten kanssa yhteyden mihin tahansa ulkoiseen dataan mihin haluat älysopimukset yhdistää.
+
+	Näet Chainlinkin viitteet artikkeleissa kummassakin:  https://chain.link & https://smartcontract.com
+
+
+Mitä Chainlink pystyy tarjoamaan
+
+	Älysopimukset tarvitsevat väliohjelmiston yhdistämään ne oikean maailman dataan. Tärkeää on, että tämä data laukaisee sopimuksen tuloksen, mikä luo tarpeen syöttötietoihin, joilla on korkea luotettavuus ja tarkkuus.
+
+	Ei ole väliä oletko start up- vai suuryritys, Chainlink hajautetun oraakkelin väliohjelmistona, voi tarjota älysopimuksesi kanssa todistetusti turvallisen yhteyden ulkoisiin datasyötteisiin, sovellusliiittymiin (APIs')  ja maksuihin.
+
+	Jokainen suunnittelija voi nopeasti rakentaa ja luoda oman Chainlinkin myydäkseen minkä tahansa sovellusliittymän älysopimukseen sillä aikaa kun datan tarjoaja myy sovellusliittymäänsä tavanomaisen käyttöliittymäliiketoiminsa kautta Kun kehittäjänä luot uuden Chainlinkin; sinulle maksetaan siitä, että teet tuhansia älysopimuksia, joihin voidaan luottaa.
+
+	Suuremmat yritykset voivat tehdä yhteistyötä Chainlinkin kanssa ja tarjota jo käytössään olevia sovellusliittymiä myyntiin älysopimuksille. Voit nopeasti ja helposti myydä yrityksesi dataa ja mitä tahansa sovellusliittymää käyttäen Chainlinkiä. Se tarjoaa lukemattomia älysopimuksia, joiden avulla voit ostaa palvelusi suoraan.
+
+
+Kumppanit & asiakkaat
+
+	- 30+ hintasyötettä Ethereumin Mainnetissa hyödynnettynä 14+ DeFi projektiin tuotannossa.
+	- 100+ integraatiota mukaanlukien Polkadot, Tezos, Synthetix, Aave, Openlaw, Web3 ja muuia.
+	- Kumppanoi suuryrityksien kuten Google, Oracle, SWIFT ja muita.
+	- Vapaana monissa kehityksellisissä puitteissa, erityisesti Truffle, joka on suosituin tähän mennessä
+	- Chainlink on Intelin, Microsoftin, IBM:n ja muiden mukana  "Hyperledger Avalonissa”, johon kuuluu suojattujen off-chain laskelmien salliminen käyttäen TEE:itä kuten Intel SGX.
+
+	 TÄYSI LISTA foorumeista, integraatoista, puitteista, asikkaista & kumppaneista https://chainlinkecosystem.com
+
+ 
+Käyttötavat
+
+	Pääsy ulkoiseen dataan mahdollistaa aivan uuden toiminnallisuuden aallon älysopimuksille. Yhdistetyille älysopimuksilla on rajaton potentiaali kattaen monenlaisia toimialoja:
+
+		- Raha ja rahoitus
+		- Maksut
+		- Vakuutus
+		- Toimitusketju
+		- Hallitus
+		- Yritysjärjestelmä
+		- Valtuutus & henkilöllisyys
+		- Apuohjelmat
+		- Vedonlyönti
+		
+		Pohjimmiltaan melkein kaikki näkemykselliset käyttötavat, joita ihmiset keksivät innostuneina, koskevat Ethereumia, ja riippuvat tiedoista jotka ovat käytettävissä lohkoketjuilla. Nimetäkseen muutama: reaalimaailman hyödykkeiden johdannaiset älysopimuksissa (Google prototyyppi), automaattiistasapainottava salkku,joka perustuu perinteisiin indikaattoreihin kuten RSI ja EMA, markkinasuhtautuminen tai jopa Bitcoinin verkkovaikeudet, automaattinen vakuutuskorvaus kun lento myöhästyy, laukaista yleiset pankkisiirrot älysopimusten perusteella, erilaiset lainaustuotteet ilman välimiehiä, jotka perustuvat ylikollateralisioon tai boni-pisteisiin, sillata pilven infrastruktuuri älysopimuksiin ja muuta.
+
+		 LUETTAVAA KÄYTTÄTAVOISTA: 44 tapaa parantaa älysopimuksiasi
+ 
+ 
+* I/O tarkoittaa siirräntää lohkoketjun kontekstissa sisääntuloa joka menee älysopimuksiin ja näiden sisääntulojen käynnistämien älysopimusten toteuttaminen.
+* API sallii ohjelmien kommunikoida keskenään. TradingView käyttää Binancen API:a hakeakseen hinta/volyymidataa näytettäväksi sivustolleen. Uber oli rakennettu käyttämään maksuja, GPS, SMS ja KYC API:t.
+
+========================
+Page2
+========================
+ 
+ 
+ 
+HEADER PAGE 2: Hajautettujen lohkoketjujen syöttäminen keskitetyillä datasyötteillä on turhaa
+				Chainlink tarjoaa hajautettua, luotettavaa & peukaloimatonta I/O:ta mihin tahansa lohkoketjuun
+
+
+Hajautuksen saavuttaminen
+
+	Onko mahdollisuus saavuttaa totuus maailmassa, jossa ei voi luottaa lähteisiin? Chainlink saavuttaa tämän olemalla oraakkelien VERKKO. Pyydetty data toimitetaan useammalta oraakkelilta, joita pyörittää eri itsenäiset node operaattorit,  käyttäen useampaa datalähde API:a, ja niitä kannustetaan tarjoamaan asianmukaista dataa.
+
+	Valitsemalla usean datalähteen ja noden, voit todistetusti lisätä mahdollisuuksiasi saada parhainta, todennäköisintä dataa. Käyttämällä Threshold Signaturesia, nodet yhdistävät  vastauksensa off-chainissa ennen lopullisen tietopisteen lähettämistä älysopimukselle on-chainiin. Lisäksi nodet valitaan maineen ja aikaisemman suorituskyvyn perusteella. Varmistat näin älysopimuksen tietoturvan paitsi valitsemalla suuren määrän nodeja, mutta myös valitsemalla erittäin hyvämaineisia nodeja syöttää dataa. Voit nähdä askel askeleelta esimerkin kuinka Chainlink toimii sivulla 3. Katso Chainlinkin markkinointi
+
+
+LINK-tokenin hyödyllisyys
+
+	LINK-token käytetään maksuna ja vakuutena ylläpitämään verkon turvallisuutta ja koko verkon kannustimena. Tokenia käytetään:
+
+	Maksuna nodeoperattoreille off-chain-datan toimittamisesta älysopimuksille.
+	Nodeoperattorit käyttävät LINK:iä lukittuina (stake) sopimuksentekijöiden pyynnöstä varmistaakseen, että he toimivat oikein. Haitallisten tai reagoimattomien nodejen vakuudet laskevat ja maine heikentyy rangaistuksena.
+
+	LINK on ERC20-token, jolla on ERC677-standard. ERC677 oli kehitetty erityisesti Chainlinkille ja integroitu Ethereumiin. Se lisää TransferAndCall-pystyvyyden, joka mahdollistaa maksujen ja tietojen uudelleentarkastelun yhdessä tapahtumassa.
+	LINK on Ethereum-token mutta pahimmassa tapauksessa, se voidaan siirtää mihin tahansa lohkoketjun foorumiin. Chainlink ei ole rajoitettu vain Ethereumiin.
+
+
+Chainlink Tokenin Jakelu
+
+	On olemassa kiinteä määrä LINK-tokeneja: 1000M
+
+	- 350M myytiin token myynnissä (tokeneiden rahankeruu ja alkujakelu).
+	- 350M nodeoperattoreiden kannustamiseksi tukien avulla(ratkaisee muna ja kanaongelman uuden verkon käynnistyksessä).
+	- 300M SmartContract Chainlink Ltd:lle (kehityksen jatkamiseen, jotta he eivät ota maksuja).
+
+Miksi ei vain  ETH LINK:in sijaan?
+
+	On useita syitä käyttää LINK:iä  ETH:n sijaan:	
+	
+	- Yhdistää nodeoperattoreiden kannustimet yhteen koko Chainlink-verkoston kannalta.
+	- Eristää turvallisuuden ja taloudellisen  (lukittu LINK) kaistanleveyden ulkoisista tekijöistä, jotka eivät kuulu Chainlink-sidosryhmän valvontaan.
+	- Jos suuri verkkohyökkäys ilmenee, LINK yhdistää vakuudet siitä, että hyökkäyksestä on vähemmän hyötyä, tätä ei voisi toteuttaa ulkopuolisella varalla (ETH).
+	- Stablecoinit eivät myöskään toimisi, koska ne ovat joko fiatin tukemia ja siten sensuroivia tai luottavat oraakkelin toimintaan.
+	- Kasvava tarve LINK:lle yhdistettynä kutistuvaan tarjontaan luo positiivisen palautteen silmukan,missä kasvava sopeutus lisää LINK:in hintaa, luoden taloudellista kaistanleveyttä ja mahdollstaen entistä enemmän sopeutumista.
+	- Chainlink on agnostinen lohkoketju & tarvitsee tokenin, jota voidaan helposti sillata lohkoketjujen välillä.
+
+
+Jos LINK on ERC-token, toimiiko se vain Ethereumin kanssa?
+
+	EI, Mikä vain lohkoketju voi helposti kirjoittaa ulkoisen adapterin kutsuakseen Chainlinkin. Katso seuraava osuus. 
+
+
+Agnostinen lohkoketju
+
+	Chainlink tukee kaikkia lohkoketjuja. LINK on luotu Ethereumin tokeniksi, mutta Chainlink-verkosto voi toimittaa dataa mihin tahansa foorumiin.
+
+	On 2 tapaa integratoitua Chainlinkin kanssa:
+
+	1. Kuka tahansa kehittäjä voi luoda yksinkertaisen ulkoisen adapterin mahdollistaen lohkoketjun pyytämään ja ottamaan vastaan ulkoista dataa Chainlinkin nodeilta. Tämän kautta LINK-maksut ja lukitusvakuudet suoritetaan edelleen Ethereumilla.
+	
+	2. LINK-token voidaan sillata toiseen lohkoketjuun LockDeposit-sopimuksen kautta oikeuttaen syntyperäisen LINK-maksun ja panostustuen lohkoketjuissa. Tämä mahdollistaa sovellusten Ethereumin ulkopuolelta vastaanottaa dataa ilman tarvetta kulkea Ethereumin läpi.
+
+	Chainlink-sopimusten käyttöönotto uudesa lohkoketjussa ja tokenin silloittaminen on monimutkaisempi prosessi ja edellyttää cross-chainsiirtojen tuen ja siksi jotkut helpotkin datapyynnöt todennäköisesti edelleenkin kanavoidaan Ethereumin kautta helppouden vuoksi.
+
+	 Chainlinkin tukemat lohkoketjut:
+
+		- Ethereum
+		- Bitcoin
+		- Polkadot
+		- Kava/Cosmos
+		- Hedera Hashgraph
+		- Tezos
+		- Zilliqa
+		- Kaikki EVM-käyttöiset lohkoketjut
+		- Paljon muita
+
+Datan räätälöinti & turvallisuus
+
+	Chainlinkin joustavuus suurimmiten tulee  "Service Agreement" (SA) mallista: Jokainen suunnittelija voi luoda tai rakentaa oraakkeliverkoston omien tarpeidensa mukaisesti.
+
+	Monenlaisten parametrien mukauttaminen:
+
+		- Nodejen valinta ja lukumäärä
+		- Datalähteiden valinta ja lukumäärä
+		- LINK-node maksujen summa
+		- LINK-vakuutusvaatimukset
+		- Minimi mainevaatimukset
+		- Rangaistusehdot
+		- Node-sertifiointi
+		- Threshold Signaturet
+		- TEEs ( Katso alempaa “Mikä on TEE?” )
+		- Mixiclet
+		
+	Noden Maine/Ranking*: Chainlinkin nodeilla on mainetekijä,. Chainlinkin asiakkaat voivat vaatia maineen minimitason kaikille nodeilleen. Maine riippuu näistä tekijöistä:
+
+		- Nodejen saatavuus (käyttöaste)
+		- Vastauksien oikeanlaisuus
+		- Vastausten keskiaika
+		- Summa täytetyistä pyynnöistä
+		- Summa suoritetuista pyynnöistä
+		- Summa hyväksytyistä pyynnöistä
+		- Rangaistusmaksujen määrä
+		- LINK-tokeneiden määrä pidossa(lukituksessa)		
+
+
+Verkoston käyttö
+
+	Chainlinkin kasvu suhteessa älysopimuksiin osoittaa lisääntynyttä verkoston hyödyllisyyttä & kehittäjien kiinnostusta.
+	(Image)
+
+
+================
+Page 3
+================
+
+HEADER PAGE 3: Käyttöluvallista tai käyttöluvatonta, julkista tai yksityistä, kaikki lohkoketjut ja DLT:t tarvitsevat luotettavaa dataa ollakseen hyödyllisiä
+
+- Ensimmäisen liikkujan etu
+
+	- Ensimmäisen hajautetun oraakkelin puitteet .
+	- Jatkuvat yhteydet markkinajohtajiin (Swift, Google, & Oracle), johtava tutkimuskonsultti (Gartner & Capgemini) & yrityskonsortiot (IC3, EEA, Baseline protocol & Hyperledger).
+	- Verkoston vaikutus: Chainlinkin suuri määrä nodeja, asiakkaita ja datalähteitä houkuttaa käyttöön.
+
+
+- Kilpailijat
+
+	- Suora: Vaihtoehtoiset hajautetut oraakkelit , joilla vähän tai ei yhtään käyttöä joustamaton tai jäykkä muokattavuus, eivät ole tavoittaneet kriittistä massaa, tai on kotimainen ja omistettu oraakkeliratkaisu. Tämä pitää sisällään Tellor:n, Witnet:n,  Compound's OOS:n,Maker's OSM:n ja Doracle:n iExec:stä (integroitunut Chainlinkiin) & Band.
+	
+	- Epäsuora: Keskitetyt oraakkelit mm. Provable ( Chainlinkin partneri) ja Rhombus.
+
+
+	Uusilla kilpailijoilla vaikeuksia saavuttaa markkinaosuuksia kun heiltä puuttuu suuri nodejen ja datalähteden määrä, tuetut oraakkeliverkostot,  aikatestattu turvallisuus, ensimmäisen liikkujan etu ja verkoston vaikutukset.
+	
+	*Huomio kilpailjoista & ’Coinbase:n oraakkeli’: Vaikka Coinbase on suuri ja tunnettu tekijä, he tarjoavat vain hintasyötteen (ei yleinen oraakkeli) ja tuloksia ei kirjoiteta on chain:iin. Siksi sitä ei voida luokitella lohkoketjuoraakkeliksi eikä oraakkelikilpailijaksi.
+
+- Vahva yhteisö
+
+	- Chainlinkin yhteisö on yksi laajimmista, koulutetuin, yksi crypton luovimpia yhteisöjä, tunnettu memetaiteestaan ja yhteisöllisyydestään.
+	- Virallinen Discord & Gitter, joista tavoittaa tiimin.
+	- Virallinen  Chainlink-yhteisön  edustusohjelma löytyy jo useasta kaupungista ja mantereelta. Kaupunkilista tässä.
+	
+
+- Tiimi
+
+	25+ ihmisen tiimi
+	6 neuvonantajaa mukaanlukien:
+		- Tom Gonser (Docusign:n perustaja). Article
+		- Ari Juels (muodollinen Proof of Work; RSA päätieteilijä; IC3 kanssaperustaja)
+		- Evan Cheng (Facebook R&D Dir & LLVM   laatija Apple:lla)
+		- Hudson Jameson (Ethereum Foundation)
+		- Andrew Miller (Consensus-tutkija)
+
+	Tällä hetkellä, 11 avointa paikkaa. Ura täällä
+	Ei hypeä tiimiltä,  vain ammattimaisuutta.
+
+Avoin lähdekoodi & auditioitu
+
+	- Koodi on avoin lähdekoodi (tässä).
+	- Kehitys julkisesti jäljitettävää (tässä).
+	- Vianmetsästys ohjelma (tässä)
+		- 4 itsenäistä tarkastusta:
+		- 3:lla pääsopimuksella (tässä). 		
+		- 1:llä Aggregator-sopimuksella (tässä).
+		- 1 on Mixicleillä (käynnissä).
+	
+	
+----------------
+
+	
+SECONDARY HEADER PAGE 3: Katsaus tekniikkaan Chainlinkin takana
+
+Nämä innovatiiviset palaset yhdessä tarjoavat kehittyneimmän oraakkelijärjestelmän tähän mennessä
+
+
+1. Yksityisyys & varmennettavuus: Mixiclet
+
+	Mixiclet 
+on oikeastaan sekoitin, joka käyttää ullkoisia oraakkeleja valtuuttamaan on-chain yksityisyyttä julkisten lohkoketjujen älysopimuksille. Sopimus jaetaan 2 osaan, missä herkkä data ja liikelogiikka pidetään off-chainissa ja yksityinen selvitys on-chainissa. Mixiclet mahdollistaa:
+
+		- Pidetään salassa sopimuksen businesslogiikka & ulkoisen oraakkelin data & lopullinen saajan tulos.
+		- Rahoitussopimukset ovat julkisia mutta sääntelyviranomaisten tarkastamia.
+		- Uusi sukupolvi yksityisyyttä suojaavia & skaalautuvia DeFi-instrumentteja.
+
+	Mixiclet ovat tällä hetkellä tarkastuksessa. Suositeltava artikkeli tässä. 
+
+
+2. Halpahintainen & skaalautuva: Threshold Signatures
+
+	Threshold signatures (TS) on otettu käyttöön Chainlinki:llä. TS:n avulla nodet voivat seurata vastauksiaan off-chain:ssa, mikä vähentää merkittävästi transaktiokustannuksia (gas) minimoiden lohkoketjuverkoston ruuhkien vaikutuksia.
+
+	Miten se saavutetaan? Threshold Signatures tasoittaa tietä oraakkeliongelman ratkaisuun: Yksi haluu satoja, tuhansia, jopa kymmeniä tuhansia todistajia sopiakseen datapisteestä, mutta se on kallista koska transaktioiden määrä kasvaa.
+
+	TS mahdollistaa oraakkeleiden keskustella toisilleen off-chain:issa, sopii havannoista, yhdistää yhden allekirjoituksen, joka osoittaa ryhmähavainnot ja vastaa sitten alkuperäiseen datapyyntöön käyttämällä vain yhtä on-chain transaktiota. Artikkeli
+
+
+3. Luotettu laskentajärjestelmä
+
+	Luotettu laskentajärjestelmä (TCF) on tapa, jolla yrity käyttää luotettavaa suoritusympäristöä (*TEEs) off-chain laskennan turvaamiseksi on-chain-sopimuksissa. Chainlink takaa, että kuljettu data on kryptattua ja peukalointisuojattua alusta loppuun asti
+
+	Yleensä laskentaa käytetään on-chain:ssa ja se on kallista. Sen sijaan TCF sallii sopimusten siiirtää monimutkaisen laskennan on-chain:sta off-chain järjestelmiin (paikan päällä  tai pilvessä VM:ssä) .Valmistuttuaan se lähettää tulokset takaisin on-chain:iin pitäen samalla varmennuksen ja todistuksen varmennusominaisuudet.
+
+	Chainlink on osa  "Hyperledger Avalon Trusted Compute Framework"  Intel:in, IBM:n, Microsoft:in, Alibaba Cloud:in and Banco Santander:in lisäksi.
+	Katso Intel:in Pressijulkaisu & artikkeli.
+
+
+4. Stakingvakuus (Lukittaminen)
+
+	 Lyhyesti kerrottuna staking: Nodet toimittavat dataa älysopimukselle antaen ennaltamäärätyn määrän LINK-tokenia vakuudeksi.
+
+	Jos nodet eivät toimita luotettavaa dataa, toimittavat sen myöhessä, tai eivät toimita dataa lainkaan, nodeja rangaistaan taloudellisesti pienentämällä heidän LINK-vakuuksiaan.
+
+	Kun sen sijaan nodet toimittavat luottavaa, oikea-aikaista dataa, palkitaan heidät Link-tokeneilla. He voivat ottaa (Link) maksun ja nostaa vakuutensa joko osittain tai kokonaan. Haitallisten tai vastaamattomien nodejen vakuudet pienevät ja heidän maineensa heikkenee rangaistuksena. Artikkeli.
+
+	Näin Chainlink-verkosto kannustaa rehelliseen käyttäymiseen ja rankaisee nodejen huonoa käytöstä.
+
+========
+Page 4
+========
+
+HEADER PAGE 4: Chainlink ei kilpaile lohkoketjuja vastaan, pelkästään parantaa niitä
+
+
+DeFi & Chainlink
+
+	DeFi (Hajautettu rahoitus) on yksi nopeiten kasvavista sektoreista hajautetussa ekosysteemissä. DeFi ei koostu pelkästään hajautetuista pörsseistä vaan myös lainausfoorumeista ja johdannaisista, jotka pyörivät hajautetusti ja luotettavasti. 
+
+	Vapaa rahoitus ei ole vain uuden systeemin luomista tyhjästä, kyse on nykyisen järjestelmän demokratisoinnista ja oikeudenmukaisuudesta avoimilla protokollilla ja avoimella tiedolla. Perinteisillä rahoitusjärjestelmillä on joitain haittoja, kuten hitaasti rajan ylittävät rahasiirrot, korkeat maksut, sensuuri/syrjintä (“et voi sijoittaa, ellet omista 1M$”). Pankit voivat jäädyttää varoja tai jopa kaataa pankkeja finanssikriisin aikana.
+
+	DeFi-sektorin businessmalli tarjoaa kaikkien varojen 100% turvalliset ja tarkat hintasyötteet  (90%+ DeFi:stä vaatii oraakkelit. DeFi:ssä, kuten yleensäkin taloudessa, turvallisuus ja luotettavuus ovat yhtä tärkeitä kannatavuuden kannalta. Katso tämä suositeltu artikkeli DeFi:stä ja tiimistä.
+
+	Chainlink tarjoaa tällä hetkellä viitetietoja 36 varalle tai parille kuten EUR/USD. Nämä hintasyötteet ovat Synthetix:n (top #2 lukittuna USD arvosta), Aave:en(top #5), Ampleforth:n ja dy/dx :n(top #7) tutkimuksen kohteena. Data:	defipulse.com, exploring.link , viite ETH/USD, lista kaikista toimitetuista syötteistä:
+
+
+
+	SUOJATTU KOKONAISARVO
+	10. Kesäkuuta 2020
+	158 M$
+
+	Synthetix: Synthetic:n varat		$100M
+	Aave: Lainaus 				$40M
+	DMM: Todellisen maailman varat		$8M
+	Ampleforth: Hyödykerahat      		$5M
+	Loopring: DEX Protokolla			$3M
+	BZX: DEX Protokolla				$2M
+
+------------------
+
+SECONDARY HEADER PAGE 4: Chainlink ja standartisointiprosessi
+
+Chainlink on mukana useissa aloitteissa lohkoketjutekniikoiden yhdenmukaistamiseksi ja standardisoimiseksi.
+
+
+1. Enterprise Ethereum Alliance & Chainlink
+
+	The Enterprise Ethereum Alliance (EEA) on jäsenlähtöinen standardijärjestö, jonka peruskirjan tarkoituksena on kehittää avoimia lohkoketjueritelmiä, jotka edistävät yhdenmukaistamista yrityksille ja kuluttajille maailmanlaajuisesti. Chainlink on ollut EEA:ssa vuodesta 2017 muiden tunnetuiden yritysten mukana. Tammikuussa 2020, EEA loi Mainnet Integraation yrityksille ’EMINENT’ työryhmän, Chainlinkin ja muiden johdolla 
+
+	Tämän työryhmän fokus on rakentaa avoimen lähdekoodin saatavilla olevia referenssi-
+tekniikoita ja ohjeita Ethereum mainnet:n integroimiseksi yrityksen “tietuejärjestelmään". Toisin sanoen tavoitteena on saavuttaa standardi, joka sallii liiketoiminnan taustan yhdistämisen (CRMs & ERPs) Ethereum:n mainnet:tiin.	
+
+2. Baseline protocol & Chainlink
+
+	Baseline protocol, esiteltiin maaliskuussa 2020 Ernst & Young:n yhteistyössä Microsoft:n , Consensys:n, AMD:n, Chainlink:n ja muiden kanssa. Siinä on avoimen lähdekoodin aloitteita, joissa yhdistyvät edistynyt salaustekniikka,lohkoketju ja avoin standardi turvallisten ja yksityisten liiketoimintaprosessien toimittamikseksi edullisesti julkisen Ethereum Mainnet:n välityksellä. Protokollat tarjoavat yrityksille yhteisen kehyksen, joka mahdollistaa luottamuksellisen yhteistyön niiden välille jättämättä arkaluontoisia tietoja on-chain:iin. Katso tiedote.
+
+3. Hyperledger Avalon & Chainlink
+
+	Lokakuussa 2019, Hyperledger esitteli Hyperledger Avalonin. Se on tilikirja Trusted Compute Framework:n riippumattomista toteutuksista. Sen tavoitteena on siirtää turvallisella tavalla prosessit on-chain:sta off-chain:iin (Pilvi). Avalon on suunniteltu vähentämään on-chain laskennan haittoja (skaalautuvuus&luotettavuus). Se purkaa ketjun ja lisää suorituskykyä samalla säilyttäen eheyden. Chainlink mukaanlukien partnerit kuten IBM, Oracle, Microsoft ja muut työskentelevät Avalon:n määritelmällä. Intel:n lehdistöjulkaisu.
+
+* Mikä on TEE? A trusted execution environment (TEE) on erittäin turvallinen,laitteistopohjainen eristetty laskentatila nykyaikaisissa prosessoreissa, mahdollistaa yksityisen ja todistetun laskennan suorittamisen, johon sovellukset, käyttöjärjestelmä, virtuaalikoneen hallinta tai jopa tetokoneen operaattori eivät pääse.
+
+
+=========
+Page 5
+=========
+
+HEADER PAGE 5: Mielenkiintoisia kohokohtia
+
+	- Chainlink on pitkään ollut IC3:n jäsen, johtavista akateemisista tutkimusaloitteista DLT:lle ja yhdessä Ari Juels:n kanssa. IC3:n jäsenet Chainlinkin ohella ovat JPMorgan, Microsoft, Cisco, Siemens, Intel.
+
+	- ISDA:sta (International Swaps & Derivatives Association): Tammikuussa 2020, BAPI julkistettiin, kahdenvälinen älykkäiden johdannaisten alusta, joka käyttää tekniikkaa kuten ISDA- mallia, Ethereum:ia, OpenLaw:ta, Chainlink:a and Kaleido:a. Sitä kehitti Carlos Matilla, Toiminnanjohtaja Santander Investment Bank:ssa.
+
+	- Chainlink työskelee SWIFT:n kanssa, pankkien välisen viestinnän maailmanlaajuinen standardi. SWIFT:iä käytetään enemmässä kuin 11,000:ssa rahoituslaitoksessa yli 200 maassa, yli 32 miljoonaa viestiä siirtää biljoonia dollareita päivittäin.
+
+	- Tammikuussa 2017, Professori Klaus Schwab, World Economic Forum:n perustaja ja puheenjohtaja, kirjoitti kirjan The Fourth Industrial Revolution. Kirjassaan Schwab kuvaa SmartContract.com:n “toiminnan muutoksen” kärkipaikkana “Bitcoinin ja lohkoketjun” alla (Katso tässä).
+
+	- On 3 erilaista sovellusliittymää (APIs): Yksityinen, kumppani ja julkinen. Kaksi vaatii salasanan. Chainlink tarjoaa dataa kaikkiin 3:een. Kumpikaan kilpailijoista: Tellor tai Band eivät pysty saada dataa yksityisiltä tai kumppani sovellusliittymiltä.
+	
+Chainlink on listattu USA:n säännösteltyihin pörsseihin kuten Coinbase, Gemini ja Kraken, joka tarjoaa LINK:iä treidattavaksi  New York:n sijoittajille. NYC:n rahoitus ja turvalli-
+suuslait ovat yksiä maailman tiukimmista.
+
+	- Chainlink hankki  IC3:n “Town Crier” oraakkelin tarkoituksenaan laajentaa oraakkeliverkostoaan syntyperäisellä TEE:n tuella. ( Forbes artikkeli | Info * Mikä on TEE? )
+
+	- Chainlinkillä on kaksi suurta markkinapaikkaa: 
+
+		- market.link,  LinkPool:n luoma, on pörssi, joka sallii kenen tahansa tarjota nodeja, adaptereita ja töitänsä. Nodejen luettelo on kaikkien nähtävissä ja niitä voi suodatttaa haluamansa perustein.
+		
+		- honeycomb.market, CLCG:n luoma, sallii kehittäjien yhdistää älysopimukset ja hajautetut sovelluksensa monenlaisiin maksettuihin sovellusliittymiin käyttämällä useita Chainlink-nodeja operaattoreilta kuten Certus.One, LinkForest & Cosmostation. Testnet sovellusliittymät ovat tarjottu ilmaiseksi.
+
+
+	- Jopa keskitetyt oraakkelit kuten ’Provable’ pystyy hyödyntämään liiketoimintaansa myymällä dataa tavalliseen tapaan luomalla ulkoisen sovittimen ja myymällä dataa toisena saatavilla olevana lähteenä Chainlink-verkostossa. Siksi ne molemmat pystyvät ansaitsemaan rahaa myymällä dataa säännöllisesti keskitetysti hajautetun Chainlink-verkoston kautta.
+
+	- Oracle integroidaan Chainlink:iin Q3 2020 Oracle:n Openworld 2020 konferenssin mukaan. Katso tästä4.
+
+	- Tässä ainoa huomia koskien Chainlink:in investointina: Chainlink on ollut parhaiten menestyvä  cryptovaluutta yli 2.5 vuotta. Sen tuotto on 1,700% korkeampi kuin keskiverto- altcoin:in ja +900% parempi kuin Bitcoin:in. (Katso tästä).
+
+-------------------------------------------
+Mikä tahansa siirräntä ( I/O). Mikä tahansa lohkoketju
+
+(Tästä tulee kuva)
+
+Text below image: 
+
+- VASEN:    Yhdistää mihin tahansa datasyötteeseen / API:in
+- KESKI:  Julkiset/Yksityiset lohkoketjut Chainlink:in tukemia
+- OIKEA 1: Lähetä maksuja minne vain
+- OIKEA 2: Yhdistä taustajärjestelmiin
+
+
+========
+Page 6
+========
+
+HEADER PAGE 6: Lohkoketjut ovat Chainlink:in tukemia
+
+(Tästä tulee kuva)
+
+SECONDARY HEADER PAGE 4: Chainlink - Eniten esitetyimmät kysymykset
+
+
+Esimerkki Chainlinkin toiminnasta (Lukitus/Staking)
+
+
+	1. Bob haluaa luotettavaa dataa älysopimuksilleen, joten hän tiedustelee Chainlink:ltä
+
+	2. Bob pyytää sitten tiettyä määrää nodeja sopimukseen, jossa määrätään että niiden on täytettävä vähintään tietty määrä aikaisemia tapahtumia, tietty prosentti tarkkuudesta ja vaadit-
+tava tietty määrä LINK:iä, joka on lukittuina (staking) sakkoina jokaiselta yksittäiseltä nodelta taaten, että he täyttävät sopimusehdot
+
+	3. Bob myös asettaa LINK-määrän,jonka hän on valmis maksamaan tiedonhausta.
+
+	4. Kaikki Chainlink-nodet, jotka täyttivät vaatimukset, tekevät nyt Bobille oraakkelitarjouksensa. Bob valitsee parhaimmat tarjoukset tehneet oraakkelit.
+
+	5. Bob:in valitut noded toimittavat dataa ja heidän vastauksensa on aggregoitu valitun kokonaissovitussopimuksen perusteella. Bob:n älysopimus sai dataa ja jokainen rehellinen node sai maksunsa LINK:einä. Haitalliset ja vastaamattomat nodet saavat maksullisen rangaistuksen, mikä jaetaan Bob:in ja nodetapahtuman lähettäneen noden välillä.
+
+	6. Rehellisillä ja hyvillä nodeilla on enemmän LINK:iä, jonka he voivat säilyttää tulevia rangaistumaksuja varten tai myydä markkinoilla.
+
+	2 Tärkeää huomiota: 
+
+	- Kun Mixiclet käynnistyy (nyt tarkastuksessa), kaikki tämä prosessi pidetään yksityisenä sopimusliiketoimintalogiikan, ulkoisen oraakkelidatan ja lopullisen maksunsaajan tuloksena. Samalla se on tilintarkastuksessa sääntelyviranomaisilla.
+
+	- Kun Threshold signatures käynnistyy ,sen sijaan että kukin node kirjoittaa vastauksiaan on-chain:issa (korkeat kustannukset, tukkeutumisverkko), heitä opetetaan pääsemään yhteisymmärrykseen of-chain:ssa ja kirjoittamaan tulokset vain yhdellä tapahtumalla.
+
+
+Useimmiten kysytyt kysymykset
+
+
+	Onko node-ranking ja staking (lukitus/panos) sama asia?
+	
+		Ei, jokaisen noden ranking perustuu aikaisempiin kokemuksiin. Staking on lisämetriikka tämän päälle, joka käyttäjät ottavat huomioon nodeja valitessa. Jos sinulla on enemmän LINK:iä käytettävissä lukitukseen, se lisää todennäköisyyttä, että node on rehellinen, mutta myös noden ranking on siinä yksi tekijä.
+
+	Tekeekö suuri määrä LINK:iä sinusta ykkössijoitetun noden?
+	
+		Ei, node-ranking koostuu useasta mainetekijästä (katso#3), LINK:in lukitseminen (staking) on vain yksi tekijä tässä kaikessa.
+
+	Mitä ovat muut tekijät ovat node-rankingissa?
+	
+		Tämä riippuu monista tekijöistä: käytettävyys, vastausten oikeellisuus / tarkkuus, osoitetuiden/hyväksytyiden/täydennettyjen/hylättyjen pyyntöjen kokonaismäärä, keskimääräinen vastausauki, viiveen historia ja lukittujen (staking) LINK-tokeineiden määrä.
+
+	 Onko lukitus (staking) käynnissä?
+	
+		Ei, sen on määrä käynnistyä kuten myös mixiclet & threshold signaturet.  Verkostot ovat tänään suojattuna nodejen maineen perusteella ja pelolla siitä, että menettää tulevaisuuden varojaan. Chainlink core tiimi tukee myös oraakkeliverkostoa varoilla, joka saatu token-myynnistä, jotta voidaan varmistaa asianmukaiset vastaukset nodeilta ja varmistaa, että noden käyttö on taloudellisesti mahdollista verkoston alkuaikoina.
+
+	Kuinka paljon stakingista saa?
+		
+		Tämä vaihtelee nodesta nodeen riippuen noden rankingista(katso #3), maineesta, LINK:in määrästä ja vastaanotettujen töiden määrästä. Mitä luotettavampi, tarkempi ja nopeammin reagoiva on, sitä todennäköisemmin he tuottavat suurempaa tuottoa lukitulla LINK:illää, johtuen suuremmasta työmäärästä ja korkeammista maksuista, joita voidaan periä.
+	
+Voiko tulla sopimuksia, jossa vaaditaan 0 LINK.iä?
+	
+		Kyllä, sopimukseen voidaan määritellä mikä tahansa summa, myös 0. (katso osuus ’Kustoimointi & turvallisuus sivulla 1’). Lukittujen LINK-tokeneiden määrä on vain yksi tekijä sopimuksessa, sillä se on tilauksen vastaanottajan valitsema summa ja nodet päättävät mitkä tehtävät he ovat halukkaita ottamaan vastaan.
