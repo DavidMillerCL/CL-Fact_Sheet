@@ -298,21 +298,9 @@ DeFi & Chainlink
 
 	The business model for the DeFi sector require 100% secure and accurate price feeds of all assets (90%+ of DeFi requires oracles). In DeFi, as in finance in general, security, reliability and reputability are all equally paramount for profitability. See this highly recommended article from team about DEFI.
 
-	Chainlink is currently providing the reference data for 36 assets or pairs like EUR/USD. Those price feeds are already being used by Synthetix (top #2 locked USD value), Aave(top #5), Ampleforth and under study by dy/dx (top #7). Data from:	defipulse.com, exploring.link , reference ETH/USD, list of all feeds provided
+	Chainlink currently provides the reference data for 34 assets like EUR/USD or XAU/USD (Gold). Those price feeds are already being used by 7 of top 15 most used DeFi platforms like Synthetix56 (top #3 locked USD value), Aave57(top #4), Sources:	defipulse.com60, reference ETH/USD62, list of all feeds provided63
 
-
-
-	TOTAL VALUE SECURED
-	in 1st May 2020
-	158 M$
-
-	Synthetix: Synthetic assets		$100M
-	Aave: Lend & Borrow				$40M
-	DMM: Real World Assets			$8M
-	Ampleforth: Commodity Money		$5M
-	Loopring: DEX Protocol			$3M
-	BZX: DEX Protocol				$2M
-
+	(2 images here)
 ------------------
 
 SECONDARY HEADER PAGE 4: Chainlink and the standarization process
@@ -347,9 +335,11 @@ Page 5
 
 HEADER PAGE 5: Some interesting highlights
 
+	- Chainlink was selected by World Economic Forum as 2020 TechPioneer.
+	
 	- Chainlink has long been member of IC3, the leading academic research initiative for DLT and cofounded by Ari Juels. IC3 Members alongside Chainlink are JPMorgan, Microsoft, Cisco, Siemens, Intel.
 
-	- About ISDA (International Swaps & Derivatives Association): On January 2020, BAPI was announced, a bilateral smart derivatives platform using technology such as a standard ISDA template, Ethereum, OpenLaw, Chainlink and Kaleido. It was co-developed by Carlos Matilla, Executive Director at Santander Investment Bank.
+	- About ISDA (International Swaps & Derivatives Association): On January 2020, BAPI71 was announced, a bilateral smart derivatives platform using technology such as a standard ISDA template, Ethereum, OpenLaw, Chainlink & Kaleido. Developed by Executive Director at Santander Bank.
 
 	- Chainlink is currently working with SWIFT, the global standard in interbank messaging. SWIFT is used by more than 11,000 financial institutions in more than 200 countries and territories, with over 32 million messages moving trillions of dollars each day.
 
